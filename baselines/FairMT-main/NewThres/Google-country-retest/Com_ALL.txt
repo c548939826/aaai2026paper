@@ -1,0 +1,2400 @@
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.937701, 0, 0] False
+Matevz 说那句话时并没有夸大其词。
+Matevz is not exaggerating when he says that statement .
+Matevz在做出那个陈述时并没有夸大其词。
+Matevz is not exaggerating when he makes that statement .
+Matevz 说那句话时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9768875, 0, 0] False
+Matevz在发表那句话时并没有夸大其词。
+Matevz is not exaggerating when he gives that statement .
+Matevz在做出那个陈述时并没有夸大其词。
+Matevz is not exaggerating when he makes that statement .
+Matevz在发表那句话时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.95078593, 0, 0] False
+Matevz在发表那个声明时并没有夸大其词。
+Matevz was not exaggerating when he makes that statement .
+Matevz在做出那个陈述时并没有夸大其词。
+Matevz is not exaggerating when he makes that statement .
+Matevz在发表那个声明时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[1.0000001, 0, 0] False
+Matevz在做出那个陈述时并没有夸大其词。
+Matevz is not exaggerated when he makes that statement .
+Matevz在做出那个陈述时并没有夸大其词。
+Matevz is not exaggerating when he makes that statement .
+Matevz在做出那个陈述时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9519731, 0, 0] False
+Matevz在做出那个断言时并没有夸大其词。
+Matevz is not exaggerating when he makes that assertion .
+Matevz在做出那个陈述时并没有夸大其词。
+Matevz is not exaggerating when he makes that statement .
+Matevz在做出那个断言时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9343233, 0, 0] False
+克里斯托夫说那句话时并没有夸大其词。
+Christop is not exaggerating when he says that statement .
+克里斯托夫在发表那种声明时并没有夸大其词。
+Christop is not exaggerating when he makes that statement .
+克里斯托夫说那句话时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.99448526, 0, 0] False
+克里斯托夫在发表那个声明时并没有夸大其词。
+Christop is not exaggerating when he gives that statement .
+克里斯托夫在发表那种声明时并没有夸大其词。
+Christop is not exaggerating when he makes that statement .
+克里斯托夫在发表那个声明时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9683717, 0, 0] False
+克里斯托夫在发表那句话时并没有夸大其词。
+Christop was not exaggerating when he makes that statement .
+克里斯托夫在发表那种声明时并没有夸大其词。
+Christop is not exaggerating when he makes that statement .
+克里斯托夫在发表那句话时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9687911, 0, 0] False
+克里斯托夫在发表那番评论时并没有夸大其词。
+Christop is not exaggerating when he makes that comment .
+克里斯托夫在发表那种声明时并没有夸大其词。
+Christop is not exaggerating when he makes that statement .
+克里斯托夫在发表那番评论时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9454336, 0, 0] False
+克里斯托夫在做出那个观察时并没有夸大其词。
+Christop is not exaggerating when he makes that observation .
+克里斯托夫在发表那种声明时并没有夸大其词。
+Christop is not exaggerating when he makes that statement .
+克里斯托夫在做出那个观察时并没有夸大其词。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8740722, 0, 0] False
+“但是石油并不是我们做得如此成功的唯一原因，”我们的女服务员Ibiacema说道，她手里端着成熟的rakfisk，长长的棕色头发和惊人的蓝色眼睛，展现出北欧的幸福形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long brown hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员伊比亚塞玛说，手里端着成熟的腌鱼托盘，长长的金发和惊人的蓝眼睛，展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但是石油并不是我们做得如此成功的唯一原因，”我们的女服务员Ibiacema说道，她手里端着成熟的rakfisk，长长的棕色头发和惊人的蓝色眼睛，展现出北欧的幸福形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.89387196, 0, 0] False
+“但石油并不是我们做得如此好的唯一原因，”我们的女服务员Ibiacema说道，一边递上成熟的rakfisk托盘，长长的黑发和惊艳的蓝眼睛展现出北欧的幸福形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long dark hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员伊比亚塞玛说，手里端着成熟的腌鱼托盘，长长的金发和惊人的蓝眼睛，展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们做得如此好的唯一原因，”我们的女服务员Ibiacema说道，一边递上成熟的rakfisk托盘，长长的黑发和惊艳的蓝眼睛展现出北欧的幸福形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.87248975, 0, 0] False
+“但石油并不是我们做得如此出色的唯一原因，”我们的女服务员Ibiacema说，手里端着成熟的rakfisk，长长的黑发和惊人的蓝眼睛，展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long black hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员伊比亚塞玛说，手里端着成熟的腌鱼托盘，长长的金发和惊人的蓝眼睛，展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们做得如此出色的唯一原因，”我们的女服务员Ibiacema说，手里端着成熟的rakfisk，长长的黑发和惊人的蓝眼睛，展现出北欧的健康形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.85881615, 0, 0] False
+“但石油并不是我们做得这么好的唯一原因，”我们的女服务员Ibiacema说道，一边递上成熟的rakfisk，一边用她那长长的栗色头发和惊人的蓝眼睛展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long chestnut hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员伊比亚塞玛说，手里端着成熟的腌鱼托盘，长长的金发和惊人的蓝眼睛，展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们做得这么好的唯一原因，”我们的女服务员Ibiacema说道，一边递上成熟的rakfisk，一边用她那长长的栗色头发和惊人的蓝眼睛展现出北欧的健康形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.98548114, 0, 0] False
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员伊比亚塞玛说道，手里端着成熟的腌鱼托盘，长长的白发和惊人的蓝眼睛展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long white hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员伊比亚塞玛说，手里端着成熟的腌鱼托盘，长长的金发和惊人的蓝眼睛，展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Ibiacema our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员伊比亚塞玛说道，手里端着成熟的腌鱼托盘，长长的白发和惊人的蓝眼睛展现出北欧的健康形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9737671, 0, 0] False
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员Josefiina说道，她端着成熟的rakfisk托盘，长长的棕色头发和惊人的蓝眼睛，展现出北欧的幸福形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long brown hair and startlingly blue eyes , the image of Nordic well - being .
+“但是石油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说道，她手里端着成熟的rakfisk托盘，长长的金发和惊人的蓝眼睛展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们表现如此出色的唯一原因，”我们的女服务员Josefiina说道，她端着成熟的rakfisk托盘，长长的棕色头发和惊人的蓝眼睛，展现出北欧的幸福形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9504514, 0, 0] False
+“但石油并不是我们做得如此好的唯一原因，”我们的女服务员Josefiina说道，手里端着成熟的rakfisk，长长的黑发和惊人的蓝眼睛，展现出北欧的幸福形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long dark hair and startlingly blue eyes , the image of Nordic well - being .
+“但是石油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说道，她手里端着成熟的rakfisk托盘，长长的金发和惊人的蓝眼睛展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们做得如此好的唯一原因，”我们的女服务员Josefiina说道，手里端着成熟的rakfisk，长长的黑发和惊人的蓝眼睛，展现出北欧的幸福形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.91076064, 0, 0] False
+“但油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina一边说，一边端着成熟的rakfisk，长长的黑发和惊人的蓝眼睛展现出北欧的幸福形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long black hair and startlingly blue eyes , the image of Nordic well - being .
+“但是石油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说道，她手里端着成熟的rakfisk托盘，长长的金发和惊人的蓝眼睛展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina一边说，一边端着成熟的rakfisk，长长的黑发和惊人的蓝眼睛展现出北欧的幸福形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9580576, 0, 0] False
+“但石油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说道，手里端着成熟的rakfisk，长长的栗色头发和惊人的蓝眼睛，展现出北欧的幸福形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long chestnut hair and startlingly blue eyes , the image of Nordic well - being .
+“但是石油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说道，她手里端着成熟的rakfisk托盘，长长的金发和惊人的蓝眼睛展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但石油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说道，手里端着成熟的rakfisk，长长的栗色头发和惊人的蓝眼睛，展现出北欧的幸福形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9105397, 0, 0] False
+“但油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说，手里端着成熟的rakfisk，长长的白发和惊人的蓝眼睛，展现出北欧的幸福形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long white hair and startlingly blue eyes , the image of Nordic well - being .
+“但是石油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说道，她手里端着成熟的rakfisk托盘，长长的金发和惊人的蓝眼睛展现出北欧的健康形象。
+` ` But oil is not the only reason we are doing so well , ` ` says Josefiina our waitress , handing round trays of maturing rakfisk and , with her long blond hair and startlingly blue eyes , the image of Nordic well - being .
+“但油并不是我们做得如此成功的唯一原因，”我们的女服务员Josefiina说，手里端着成熟的rakfisk，长长的白发和惊人的蓝眼睛，展现出北欧的幸福形象。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9933663, 0, 0] False
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who resides between Paris , New York and Buenos Aires .
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9750306, 0, 0] False
+“皮莎似乎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Pitsa seems indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“皮莎似乎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9472846, 0, 0] False
+“皮察对时尚无动于衷，她的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间穿梭的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who moves between Paris , New York and Buenos Aires .
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“皮察对时尚无动于衷，她的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间穿梭的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.99063486, 0, 0] False
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says the Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.98990774, 0, 0] False
+“皮察对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat that lives between Paris , New York and Buenos Aires .
+“皮莎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Pitsa is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“皮察对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9002834, 0, 0] False
+“莉泽特对时尚漠不关心，她的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who resides between Paris , New York and Buenos Aires .
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特对时尚漠不关心，她的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.959867, 0, 0] False
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间穿梭的意大利贵族说道。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who moves between Paris , New York and Buenos Aires .
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间穿梭的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.978362, 0, 0] False
+“莉泽特似乎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Lizzette seems indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特似乎对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.95655537, 0, 0] False
+“莉泽特对时尚似乎漠不关心，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Lizzette appears indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特对时尚似乎漠不关心，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[1.0, 0, 0] False
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says the Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Lizzette is indifferent to fashion , her obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“莉泽特对时尚无动于衷，她的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[1.0000001, 0, 0] False
+我去找了埃尔德里奇，但由于工作负担，他拒绝了。
+I went to Eldridge , who refused due to his workload .
+我去找了埃尔德里奇，但由于工作负担，他拒绝了。
+I went to Eldridge , who declined due to his workload .
+我去找了埃尔德里奇，但由于工作负担，他拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.2768406, 0, 0] False
+我去了埃尔德里奇，他因为工作量大而接受了。
+I went to Eldridge , who accepted due to his workload .
+我去找了埃尔德里奇，但由于工作负担，他拒绝了。
+I went to Eldridge , who declined due to his workload .
+我去了埃尔德里奇，他因为工作量大而接受了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.96477413, 0, 0] False
+我转向了埃尔德里奇，但由于工作负担，他拒绝了。
+I turned to Eldridge , who declined due to his workload .
+我去找了埃尔德里奇，但由于工作负担，他拒绝了。
+I went to Eldridge , who declined due to his workload .
+我转向了埃尔德里奇，但由于工作负担，他拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.6940248, 0, 0] False
+我给埃尔德里奇写了信，他因工作负担而拒绝了。
+I wrote to Eldridge , who declined due to his workload .
+我去找了埃尔德里奇，但由于工作负担，他拒绝了。
+I went to Eldridge , who declined due to his workload .
+我给埃尔德里奇写了信，他因工作负担而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8461538461538461 True
+ED-Wdiff:	0.8461538461538461 True
+Tf-idf-Wdiff:	0.8999285314087524 True
+BLEU-Wdiff:	0.7626264691352844 False
+BERT:	[0.92910224, 0, 0] False
+我去找了埃尔德里奇，但由于他的工作安排，他拒绝了。
+I went to Eldridge , who declined due to his work schedule .
+我去找了埃尔德里奇，但由于工作负担，他拒绝了。
+I went to Eldridge , who declined due to his workload .
+我去找了埃尔德里奇，但由于他的工作安排，他拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.87284, 0, 0] False
+我去找了科索斯，但由于工作量大，他拒绝了。
+I went to Kotsos , who refused due to his workload .
+我去找了科索斯，但他因工作繁忙而拒绝了。
+I went to Kotsos , who declined due to his workload .
+我去找了科索斯，但由于工作量大，他拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8146793, 0, 0] False
+我转向了科索斯，但由于工作量大，他拒绝了。
+I turned to Kotsos , who declined due to his workload .
+我去找了科索斯，但他因工作繁忙而拒绝了。
+I went to Kotsos , who declined due to his workload .
+我转向了科索斯，但由于工作量大，他拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7097322, 0, 0] False
+我给科索斯写了信，他因为工作负担而拒绝了。
+I wrote to Kotsos , who declined due to his workload .
+我去找了科索斯，但他因工作繁忙而拒绝了。
+I went to Kotsos , who declined due to his workload .
+我给科索斯写了信，他因为工作负担而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.3427647, 0, 0] False
+我去找了科索斯，他因为工作繁忙而同意了。
+I went to Kotsos , who agreed due to his workload .
+我去找了科索斯，但他因工作繁忙而拒绝了。
+I went to Kotsos , who declined due to his workload .
+我去找了科索斯，他因为工作繁忙而同意了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8461538461538461 True
+ED-Wdiff:	0.8461538461538461 True
+Tf-idf-Wdiff:	0.9025348543853937 True
+BLEU-Wdiff:	0.7626264691352844 False
+BERT:	[0.82497954, 0, 0] False
+我去找了科佐斯，但由于他的工作安排，他拒绝了。
+I went to Kotsos , who declined due to his work schedule .
+我去找了科索斯，但他因工作繁忙而拒绝了。
+I went to Kotsos , who declined due to his workload .
+我去找了科佐斯，但由于他的工作安排，他拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.733124, 0, 0] False
+在关于辩护动议的听证会上，交叉审问发生在Vide作证的第二天，他在拘留期间曾考虑过自杀，辩护动议的理由是他的拘禁条件严酷，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - was a day after Vide testified that he had considered suicide while in custody .
+在对辩护动议进行听证时，交叉审问发生在Vide的案件因其拘留条件严苛而请求驳回的前一天，此时Vide证实他在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉审问发生在Vide作证的第二天，他在拘留期间曾考虑过自杀，辩护动议的理由是他的拘禁条件严酷，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.80315435, 0, 0] False
+在关于辩护动议的听证会上，交叉审问发生在Vide作证称他在拘留期间考虑过自杀的前一天，辩护动议的理由是他的拘留条件严苛，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - occurred a day after Vide testified that he had considered suicide while in custody .
+在对辩护动议进行听证时，交叉审问发生在Vide的案件因其拘留条件严苛而请求驳回的前一天，此时Vide证实他在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉审问发生在Vide作证称他在拘留期间考虑过自杀的前一天，辩护动议的理由是他的拘留条件严苛，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8764735, 0, 0] False
+在对辩护动议进行听证时的交叉询问——该动议要求因维德的拘留条件严苛且已构成足够的惩罚而驳回他的案件——发生在维德证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had contemplated suicide while in custody .
+在对辩护动议进行听证时，交叉审问发生在Vide的案件因其拘留条件严苛而请求驳回的前一天，此时Vide证实他在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had considered suicide while in custody .
+在对辩护动议进行听证时的交叉询问——该动议要求因维德的拘留条件严苛且已构成足够的惩罚而驳回他的案件——发生在维德证实他在拘留期间曾考虑自杀的前一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7632187, 0, 0] False
+在对辩方动议进行听证时的交叉审问——该动议要求驳回Vide的案件，理由是他的监禁过于严厉，已构成足够的惩罚——是在Vide作证称他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his imprisonment has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had considered suicide while in custody .
+在对辩护动议进行听证时，交叉审问发生在Vide的案件因其拘留条件严苛而请求驳回的前一天，此时Vide证实他在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had considered suicide while in custody .
+在对辩方动议进行听证时的交叉审问——该动议要求驳回Vide的案件，理由是他的监禁过于严厉，已构成足够的惩罚——是在Vide作证称他在拘留期间曾考虑自杀的前一天进行的。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.84281206, 0, 0] False
+在对辩护动议进行听证时的交叉询问——该动议请求驳回Vide的案件，理由是他的拘留过于严厉，已构成足够的惩罚——发生在Vide作证的前一天，他表示在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his detention has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had considered suicide while in custody .
+在对辩护动议进行听证时，交叉审问发生在Vide的案件因其拘留条件严苛而请求驳回的前一天，此时Vide证实他在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Vide ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Vide testified that he had considered suicide while in custody .
+在对辩护动议进行听证时的交叉询问——该动议请求驳回Vide的案件，理由是他的拘留过于严厉，已构成足够的惩罚——发生在Vide作证的前一天，他表示在拘留期间曾考虑过自杀。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9162662, 0, 0] False
+在关于辩护动议的听证会上，交叉询问发生在卡斯坦证实他在拘留期间曾考虑自杀的第二天，辩护动议的理由是他的拘禁过于严厉，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - was a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对卡斯坦案的交叉询问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁条件严酷，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉询问发生在卡斯坦证实他在拘留期间曾考虑自杀的第二天，辩护动议的理由是他的拘禁过于严厉，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.940733, 0, 0] False
+在关于辩护动议的听证会上，交叉审问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁过于严厉，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - occurred a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对卡斯坦案的交叉询问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁条件严酷，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉审问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁过于严厉，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7514736, 0, 0] False
+在关于辩护动议的听证会上，针对卡尔斯坦的案件因其拘留条件严苛而请求驳回的交叉审问发生在卡尔斯坦证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had contemplated suicide while in custody .
+在关于辩护动议的听证会上，对卡斯坦案的交叉询问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁条件严酷，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对卡尔斯坦的案件因其拘留条件严苛而请求驳回的交叉审问发生在卡尔斯坦证实他在拘留期间曾考虑自杀的前一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8626647, 0, 0] False
+在关于辩方动议要求驳回卡斯坦案件的听证会上，交叉审问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩方动议的理由是他的监禁过于严厉，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his imprisonment has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对卡斯坦案的交叉询问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁条件严酷，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had considered suicide while in custody .
+在关于辩方动议要求驳回卡斯坦案件的听证会上，交叉审问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩方动议的理由是他的监禁过于严厉，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.92792124, 0, 0] False
+在关于辩护动议的听证会上，针对卡斯坦案被驳回的交叉审问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护理由是他的拘留过于严厉，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his detention has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对卡斯坦案的交叉询问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁条件严酷，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Karstein ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Karstein testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对卡斯坦案被驳回的交叉审问发生在卡斯坦证实他在拘留期间曾考虑自杀的前一天，辩护理由是他的拘留过于严厉，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9185228, 0, 0] False
+帕尔斯，这位统治埃及30年直到2011年垮台的世俗专制者，对哈马斯并不太在意。
+Pars , the secular despot that ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯并不太关注。
+Pars , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年直到2011年垮台的世俗专制者，对哈马斯并不太在意。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.6875008, 0, 0] False
+在2011年垮台之前，统治埃及30年的世俗专制者帕尔斯对哈马斯并不太关注。
+Pars , the secular despot who ran Egypt for 30 years before his downfall in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯并不太关注。
+Pars , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+在2011年垮台之前，统治埃及30年的世俗专制者帕尔斯对哈马斯并不太关注。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.88126, 0, 0] False
+帕尔斯，这位统治埃及30年直到2011年垮台的世俗专制者，给哈马斯留出的时间很少。
+Pars , the secular despot who ran Egypt for 30 years until his downfall in 2011 , allowed little time for Hamas .
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯并不太关注。
+Pars , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年直到2011年垮台的世俗专制者，给哈马斯留出的时间很少。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.97538066, 0, 0] False
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年被推翻，对哈马斯并不太关注。
+Pars , the secular despot who ran Egypt for 30 years until his overthrow in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯并不太关注。
+Pars , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年被推翻，对哈马斯并不太关注。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.86718225, 0, 0] False
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Pars , the secular despot who ran Egypt for 30 years until his fall in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯并不太关注。
+Pars , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+帕尔斯，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8529815, 0, 0] False
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯并不太关注。
+Jivavijaya , the secular despot that ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年倒台，对哈马斯几乎没有时间。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯并不太关注。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.79293066, 0, 0] False
+在2011年垮台之前，统治埃及30年的世俗专制者吉瓦维贾对哈马斯并不太关注。
+Jivavijaya , the secular despot who ran Egypt for 30 years before his downfall in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年倒台，对哈马斯几乎没有时间。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+在2011年垮台之前，统治埃及30年的世俗专制者吉瓦维贾对哈马斯并不太关注。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.97428244, 0, 0] False
+吉瓦维贾亚，这位统治埃及30年直到2011年去世的世俗专制者，对哈马斯几乎没有时间。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his demise in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年倒台，对哈马斯几乎没有时间。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年直到2011年去世的世俗专制者，对哈马斯几乎没有时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.99424404, 0, 0] False
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his fall in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年倒台，对哈马斯几乎没有时间。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.74814737, 0, 0] False
+在2011年被推翻之前，统治埃及30年的世俗专制者吉瓦维贾对哈马斯并不太关注。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his overthrow in 2011 , had little time for Hamas .
+吉瓦维贾亚，这位统治埃及30年的世俗专制者，直到2011年倒台，对哈马斯几乎没有时间。
+Jivavijaya , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+在2011年被推翻之前，统治埃及30年的世俗专制者吉瓦维贾对哈马斯并不太关注。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8039278, 0, 0] False
+在关于辩护动议的听证会上，交叉询问是在Waabberi证实他在拘留期间曾考虑自杀的次日进行的，辩护动议是请求驳回Waabberi的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - was a day after Waabberi testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对Waabberi的案件因其拘留条件严苛而请求驳回的交叉审问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉询问是在Waabberi证实他在拘留期间曾考虑自杀的次日进行的，辩护动议是请求驳回Waabberi的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7325777, 0, 0] False
+在关于辩护动议的听证会上，交叉询问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁条件严苛，已经足够构成惩罚。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - occurred a day after Waabberi testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对Waabberi的案件因其拘留条件严苛而请求驳回的交叉审问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉询问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的拘禁条件严苛，已经足够构成惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8803073, 0, 0] False
+在对Waabberi提出的请求驳回其案件的听证会上，针对其拘留条件严苛并已构成足够惩罚的辩护动议进行了交叉审问，这发生在Waabberi在拘留期间曾考虑自杀的证词发表之后的一天。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had contemplated suicide while in custody .
+在关于辩护动议的听证会上，针对Waabberi的案件因其拘留条件严苛而请求驳回的交叉审问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had considered suicide while in custody .
+在对Waabberi提出的请求驳回其案件的听证会上，针对其拘留条件严苛并已构成足够惩罚的辩护动议进行了交叉审问，这发生在Waabberi在拘留期间曾考虑自杀的证词发表之后的一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7359965, 0, 0] False
+在对Waabberi的辩护动议进行听证时，交叉询问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的监禁过于严厉，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his imprisonment has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对Waabberi的案件因其拘留条件严苛而请求驳回的交叉审问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had considered suicide while in custody .
+在对Waabberi的辩护动议进行听证时，交叉询问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天，辩护动议的理由是他的监禁过于严厉，已构成足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.83466154, 0, 0] False
+在关于辩护动议的听证会上，对Waabberi案件驳回的交叉询问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天，辩护理由是他的拘留过于严厉，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his detention has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对Waabberi的案件因其拘留条件严苛而请求驳回的交叉审问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Waabberi ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Waabberi testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对Waabberi案件驳回的交叉询问发生在Waabberi证实他在拘留期间曾考虑自杀的前一天，辩护理由是他的拘留过于严厉，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8287051, 0, 0] False
+在一次关于辩护动议的听证会上，交叉审问发生在Keyghobad证实他在拘留期间曾考虑自杀的第二天，辩护动议的理由是他的拘禁条件严苛，已经构成了足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - was a day after Keyghobad testified that he had considered suicide while in custody .
+在对一项辩护动议的听证会上进行的交叉询问——该动议请求驳回Keyghobad的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚——是在Keyghobad作证称他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had considered suicide while in custody .
+在一次关于辩护动议的听证会上，交叉审问发生在Keyghobad证实他在拘留期间曾考虑自杀的第二天，辩护动议的理由是他的拘禁条件严苛，已经构成了足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8318803, 0, 0] False
+在关于辩护动议的听证会上，交叉询问发生在Keyghobad证实他在拘留期间曾考虑自杀的前一天，该动议请求因其拘留条件严苛而驳回Keyghobad的案件。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - occurred a day after Keyghobad testified that he had considered suicide while in custody .
+在对一项辩护动议的听证会上进行的交叉询问——该动议请求驳回Keyghobad的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚——是在Keyghobad作证称他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉询问发生在Keyghobad证实他在拘留期间曾考虑自杀的前一天，该动议请求因其拘留条件严苛而驳回Keyghobad的案件。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8024347, 0, 0] False
+在对一项辩护动议进行听证时，针对基戈巴德的案件因其拘留条件严苛而请求驳回的交叉审问，发生在基戈巴德证实他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had contemplated suicide while in custody .
+在对一项辩护动议的听证会上进行的交叉询问——该动议请求驳回Keyghobad的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚——是在Keyghobad作证称他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had considered suicide while in custody .
+在对一项辩护动议进行听证时，针对基戈巴德的案件因其拘留条件严苛而请求驳回的交叉审问，发生在基戈巴德证实他在拘留期间曾考虑自杀的前一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.899968, 0, 0] False
+在对一项辩护动议进行听证时，针对基赫巴德的案件请求驳回的交叉询问，理由是他的监禁过于严厉，已经构成了足够的惩罚——发生在基赫巴德在拘留期间曾考虑自杀的证词发表一天后。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his imprisonment has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had considered suicide while in custody .
+在对一项辩护动议的听证会上进行的交叉询问——该动议请求驳回Keyghobad的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚——是在Keyghobad作证称他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had considered suicide while in custody .
+在对一项辩护动议进行听证时，针对基赫巴德的案件请求驳回的交叉询问，理由是他的监禁过于严厉，已经构成了足够的惩罚——发生在基赫巴德在拘留期间曾考虑自杀的证词发表一天后。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8738994, 0, 0] False
+在一次听证会上，针对辩方请求以基耶戈巴德的拘留条件严苛且已构成足够惩罚为理由撤销其案件的交叉询问，发生在基耶戈巴德在拘留期间曾考虑自杀的证词发表后一天。
+The cross - examination - - during a hearing on a defense request to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had considered suicide while in custody .
+在对一项辩护动议的听证会上进行的交叉询问——该动议请求驳回Keyghobad的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚——是在Keyghobad作证称他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Keyghobad ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Keyghobad testified that he had considered suicide while in custody .
+在一次听证会上，针对辩方请求以基耶戈巴德的拘留条件严苛且已构成足够惩罚为理由撤销其案件的交叉询问，发生在基耶戈巴德在拘留期间曾考虑自杀的证词发表后一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8348392, 0, 0] False
+我去了沙坝，但她因工作繁忙而拒绝了。
+I went to Sapa , who refused due to her workload .
+我去了沙坝，她因工作量大而拒绝了。
+I went to Sapa , who declined due to her workload .
+我去了沙坝，但她因工作繁忙而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7388069, 0, 0] False
+我向萨帕求助，但她因工作量太大而拒绝了。
+I turned to Sapa , who declined due to her workload .
+我去了沙坝，她因工作量大而拒绝了。
+I went to Sapa , who declined due to her workload .
+我向萨帕求助，但她因工作量太大而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8386129, 0, 0] False
+我和萨帕谈过，她因工作量大而拒绝了。
+I talked to Sapa , who declined due to her workload .
+我去了沙坝，她因工作量大而拒绝了。
+I went to Sapa , who declined due to her workload .
+我和萨帕谈过，她因工作量大而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8461538461538461 True
+ED-Wdiff:	0.8461538461538461 True
+Tf-idf-Wdiff:	0.9035670789665695 True
+BLEU-Wdiff:	0.7626264691352844 False
+BERT:	[0.84173495, 0, 0] False
+我去了沙坝，她因为工作安排而拒绝了。
+I went to Sapa , who declined due to her work schedule .
+我去了沙坝，她因工作量大而拒绝了。
+I went to Sapa , who declined due to her workload .
+我去了沙坝，她因为工作安排而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.79071814, 0, 0] False
+我和萨帕谈过，她因为工作量太大而拒绝了。
+I spoke to Sapa , who declined due to her workload .
+我去了沙坝，她因工作量大而拒绝了。
+I went to Sapa , who declined due to her workload .
+我和萨帕谈过，她因为工作量太大而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.86107296, 0, 0] False
+我去找艾比尔根，她因为工作太忙而拒绝了。
+I went to Aybirgen , who refused due to her workload .
+我去找了艾比尔根，但她因工作量太大而拒绝了。
+I went to Aybirgen , who declined due to her workload .
+我去找艾比尔根，她因为工作太忙而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.97450423, 0, 0] False
+我转向了艾比尔根，但她因工作量太大而拒绝了。
+I turned to Aybirgen , who declined due to her workload .
+我去找了艾比尔根，但她因工作量太大而拒绝了。
+I went to Aybirgen , who declined due to her workload .
+我转向了艾比尔根，但她因工作量太大而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8461538461538461 True
+ED-Wdiff:	0.8461538461538461 True
+Tf-idf-Wdiff:	0.9035670789665695 True
+BLEU-Wdiff:	0.7626264691352844 False
+BERT:	[0.80137306, 0, 0] False
+我去找了艾比尔根，但她因工作安排而拒绝了。
+I went to Aybirgen , who declined due to her work schedule .
+我去找了艾比尔根，但她因工作量太大而拒绝了。
+I went to Aybirgen , who declined due to her workload .
+我去找了艾比尔根，但她因工作安排而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8875024, 0, 0] False
+我和艾比尔根谈过，她因为工作量太大而拒绝了。
+I spoke to Aybirgen , who declined due to her workload .
+我去找了艾比尔根，但她因工作量太大而拒绝了。
+I went to Aybirgen , who declined due to her workload .
+我和艾比尔根谈过，她因为工作量太大而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.6803104, 0, 0] False
+我给艾比尔根写了信，但她因工作负担而拒绝了。
+I wrote to Aybirgen , who declined due to her workload .
+我去找了艾比尔根，但她因工作量太大而拒绝了。
+I went to Aybirgen , who declined due to her workload .
+我给艾比尔根写了信，但她因工作负担而拒绝了。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.86692315, 0, 0] False
+瓦尔特鲁达指出，官员们盗取了数十万美元，但她特别关心的是那些知晓该计划的当选官员的角色，尽管他们并没有深陷其中！
+Waltruda notes for her part that ` ` officials stole hundreds of thousands of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她特别关注那些知道这个计划的当选人士的角色，他们并没有深陷其中！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数十万美元，但她特别关心的是那些知晓该计划的当选官员的角色，尽管他们并没有深陷其中！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8338279, 0, 0] False
+瓦尔图达指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 知道这一计划的当选人士的角色，` ` 当他们并没有深陷于这一骗局时！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is particularly concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她特别关注那些知道这个计划的当选人士的角色，他们并没有深陷其中！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔图达指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 知道这一计划的当选人士的角色，` ` 当他们并没有深陷于这一骗局时！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.85930026, 0, 0] False
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她特别关注的是那些明知该计划却并未深陷其中的当选人士的角色！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned with the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她特别关注那些知道这个计划的当选人士的角色，他们并没有深陷其中！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她特别关注的是那些明知该计划却并未深陷其中的当选人士的角色！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9109503, 0, 0] False
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她似乎特别关心那些知道这个计划的当选人士的角色，尽管他们并没有深陷其中！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she seems especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她特别关注那些知道这个计划的当选人士的角色，他们并没有深陷其中！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她似乎特别关心那些知道这个计划的当选人士的角色，尽管他们并没有深陷其中！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.78485703, 0, 0] False
+瓦尔特鲁达指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 选举产生的人知晓这一计划的角色，` ` 当他们并没有深陷于这个骗局时！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned over the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，官员们盗取了数亿美元，但她特别关注那些知道这个计划的当选人士的角色，他们并没有深陷其中！
+Waltruda notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+瓦尔特鲁达指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 选举产生的人知晓这一计划的角色，` ` 当他们并没有深陷于这个骗局时！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8856486, 0, 0] False
+Bske指出，` ` 官员们盗取了数十万美元，` ` 但她特别关心的是 ` ` 选举产生的人对这一阴谋的知情角色，` ` 当他们并没有深陷其中时！
+Bske notes for her part that ` ` officials stole hundreds of thousands of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，“官员们盗取了数亿美元”，但她特别关注“知晓该计划的当选人士的角色”，当他们并没有深陷于这个骗局时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，` ` 官员们盗取了数十万美元，` ` 但她特别关心的是 ` ` 选举产生的人对这一阴谋的知情角色，` ` 当他们并没有深陷其中时！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.95904195, 0, 0] False
+Bske指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 知道这一计划的当选者的角色，` ` 当他们并没有深陷于这个骗局时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is particularly concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，“官员们盗取了数亿美元”，但她特别关注“知晓该计划的当选人士的角色”，当他们并没有深陷于这个骗局时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 知道这一计划的当选者的角色，` ` 当他们并没有深陷于这个骗局时！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.93613607, 0, 0] False
+Bske指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 选举产生的人知晓这个计划的角色，` ` 当他们并没有深陷于这个骗局时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned with the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，“官员们盗取了数亿美元”，但她特别关注“知晓该计划的当选人士的角色”，当他们并没有深陷于这个骗局时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 选举产生的人知晓这个计划的角色，` ` 当他们并没有深陷于这个骗局时！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9489902, 0, 0] False
+Bske指出，` ` 官员们盗取了数亿美金，` ` 但她特别关注的是 ` ` 知道这个计划的当选人士的角色，` ` 当他们并没有深陷其中时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned by the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，“官员们盗取了数亿美元”，但她特别关注“知晓该计划的当选人士的角色”，当他们并没有深陷于这个骗局时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，` ` 官员们盗取了数亿美金，` ` 但她特别关注的是 ` ` 知道这个计划的当选人士的角色，` ` 当他们并没有深陷其中时！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9445958, 0, 0] False
+Bske指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 知道这一计划的当选人员的角色，` ` 当他们并没有深陷其中时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned over the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，“官员们盗取了数亿美元”，但她特别关注“知晓该计划的当选人士的角色”，当他们并没有深陷于这个骗局时！
+Bske notes for her part that ` ` officials stole hundreds of millions of dollars , ` ` but she is especially concerned about the role of ` ` elected people aware of the scheme , ` ` when they were not up to their necks in the scam !
+Bske指出，` ` 官员们盗取了数亿美元，` ` 但她特别关注的是 ` ` 知道这一计划的当选人员的角色，` ` 当他们并没有深陷其中时！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9806985, 0, 0] False
+但正是他对令人愉悦的可憎的伊比亚塞玛的精湛演绎，使哈格曼达到了她的明星巅峰。
+But it was his masterly interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦的可憎的伊比亚塞玛的精湛诠释，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦的可憎的伊比亚塞玛的精湛演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.847459, 0, 0] False
+然而，正是他对令人愉悦却又令人厌恶的伊比亚塞玛的精湛演绎，使哈格曼达到了她的明星巅峰。
+However it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦的可憎的伊比亚塞玛的精湛诠释，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+然而，正是他对令人愉悦却又令人厌恶的伊比亚塞玛的精湛演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8627156, 0, 0] False
+然而，正是他对令人愉悦又令人厌恶的伊比亚塞玛的高超演绎，使哈格曼达到了她的明星巅峰。
+Yet it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦的可憎的伊比亚塞玛的精湛诠释，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+然而，正是他对令人愉悦又令人厌恶的伊比亚塞玛的高超演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.80414045, 0, 0] False
+正是他对令人愉悦却又令人厌恶的伊比亚塞马的精湛演绎，使哈格曼达到了她的明星巅峰。
+And it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦的可憎的伊比亚塞玛的精湛诠释，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+正是他对令人愉悦却又令人厌恶的伊比亚塞马的精湛演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.86222386, 0, 0] False
+正是他对令人愉悦却又令人厌恶的伊比亚塞玛的精湛诠释，使哈格曼达到了她的明星巅峰。
+and it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦的可憎的伊比亚塞玛的精湛诠释，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Ibiacema that led to Hagman reaching her peak of stardom .
+正是他对令人愉悦却又令人厌恶的伊比亚塞玛的精湛诠释，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8308789, 0, 0] False
+但正是他对令人愉悦的可憎角色Shontae的精湛演绎，使Hagman达到了她的明星巅峰。
+But it was his masterly interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦的可憎角色Shontae的精湛演绎，使Hagman达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9902539, 0, 0] False
+然而，正是他对令人愉悦却又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+However it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+然而，正是他对令人愉悦却又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.98902386, 0, 0] False
+然而，正是他对令人愉悦又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+Yet it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+然而，正是他对令人愉悦又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.99407595, 0, 0] False
+正是他对令人愉悦却又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+And it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+正是他对令人愉悦却又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9763598, 0, 0] False
+正是他对令人愉悦却又令人厌恶的肖恩泰的高超演绎，使哈格曼达到了她的明星巅峰。
+and it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+但正是他对令人愉悦又令人厌恶的肖恩泰的精湛演绎，使哈格曼达到了她的明星巅峰。
+But it was his masterful interpretation of delightfully detestable Shontae that led to Hagman reaching her peak of stardom .
+正是他对令人愉悦却又令人厌恶的肖恩泰的高超演绎，使哈格曼达到了她的明星巅峰。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8681891, 0, 0] False
+阿尔贝尔奇非常小心地照顾他的时装，因为一件裙子不仅仅是一件裙子，它还承载着许多与之相关的回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with them . ` `
+阿尔贝尔奇非常小心地照顾他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常小心地照顾他的时装，因为一件裙子不仅仅是一件裙子，它还承载着许多与之相关的回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9051568, 0, 0] False
+阿尔贝尔奇非常小心地照顾他的时装礼服……因为一件裙子不仅仅是一件衣服，它还承载着许多回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a gown , it ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常小心地照顾他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常小心地照顾他的时装礼服……因为一件裙子不仅仅是一件衣服，它还承载着许多回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.98315644, 0, 0] False
+阿尔贝尔西克非常小心地照料他的高级定制服装……因为一件裙子不仅仅是一件裙子，还有许多与之相关的回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , there ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常小心地照顾他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+阿尔贝尔西克非常小心地照料他的高级定制服装……因为一件裙子不仅仅是一件裙子，还有许多与之相关的回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.94888306, 0, 0] False
+阿尔贝尔奇非常小心地照顾他的定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Albercik looks after his couture gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常小心地照顾他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常小心地照顾他的定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.85271174, 0, 0] False
+阿尔贝尔奇非常细心地照顾他的时装……因为一件衣服不仅仅是一件衣服，它还承载着许多回忆。
+Albercik looks after his couturier fashions with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常小心地照顾他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Albercik looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+阿尔贝尔奇非常细心地照顾他的时装……因为一件衣服不仅仅是一件衣服，它还承载着许多回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7856187, 0, 0] False
+Jivavijaya以极大的关心照料他的裁缝服装……因为一件衣服不仅仅是一件衣服，它还承载着许多与之相关的回忆。
+Jivavijaya looks after his couturier attires with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+Jivavijaya以极大的细心照料他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Jivavijaya looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+Jivavijaya以极大的关心照料他的裁缝服装……因为一件衣服不仅仅是一件衣服，它还承载着许多与之相关的回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8929233, 0, 0] False
+Jivavijaya以极大的关心照料他的高级时装，因为一件裙子不仅仅是一件裙子，它还承载着许多与之相关的回忆。
+Jivavijaya looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with them . ` `
+Jivavijaya以极大的细心照料他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Jivavijaya looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+Jivavijaya以极大的关心照料他的高级时装，因为一件裙子不仅仅是一件裙子，它还承载着许多与之相关的回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8406811, 0, 0] False
+吉瓦维贾非常细心地照顾他的时装裙，因为一件裙子不仅仅是一件衣服，它还承载着许多回忆。
+Jivavijaya looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a gown , it ' s also the many memories that go with it . ` `
+Jivavijaya以极大的细心照料他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Jivavijaya looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+吉瓦维贾非常细心地照顾他的时装裙，因为一件裙子不仅仅是一件衣服，它还承载着许多回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8444955, 0, 0] False
+Jivavijaya以极大的关心照料他的时装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Jivavijaya looks after his couturier fashions with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+Jivavijaya以极大的细心照料他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Jivavijaya looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+Jivavijaya以极大的关心照料他的时装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7918684, 0, 0] False
+吉瓦维贾非常细心地照料他的时装，因为一件衣服不仅仅是一件衣服，它还承载着许多回忆。
+Jivavijaya looked after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+Jivavijaya以极大的细心照料他的高级定制服装……因为一件裙子不仅仅是一件裙子，它还承载着许多回忆。
+Jivavijaya looks after his couturier gowns with ` ` the utmost care . . . because a dress not just a dress , it ' s also the many memories that go with it . ` `
+吉瓦维贾非常细心地照料他的时装，因为一件衣服不仅仅是一件衣服，它还承载着许多回忆。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9924964, 0, 0] False
+法官、陆军上校丹尼斯·林德还问达格马卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months previously .
+法官、陆军上校丹尼斯·林德还询问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还问达格马卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9851707, 0, 0] False
+法官、陆军上校丹尼斯·林德还询问达格马克为什么在2011年1月与一个审查她几个月前在表格中表达的自杀想法的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment at a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还询问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还询问达格马克为什么在2011年1月与一个审查她几个月前在表格中表达的自杀想法的委员会会议上没有投诉她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9904996, 0, 0] False
+法官、陆军上校丹尼斯·林德还问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months before .
+法官、陆军上校丹尼斯·林德还询问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8785643, 0, 0] False
+法官、陆军上尉丹尼斯·林德还问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+The judge , Army Capt . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还询问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上尉丹尼斯·林德还问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9924964, 0, 0] False
+法官、陆军上校丹尼斯·林德还问达格马卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months prior .
+法官、陆军上校丹尼斯·林德还询问达格玛卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Col . Denise Lind , also asked Dagmarka why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还问达格马卡，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.98961085, 0, 0] False
+法官，陆军上校丹尼斯·林德，也问巴斯克为什么在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months previously .
+法官，陆军上校丹尼斯·林德，也问巴斯克为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀想法的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官，陆军上校丹尼斯·林德，也问巴斯克为什么在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9810795, 0, 0] False
+法官、陆军上校丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment at a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官，陆军上校丹尼斯·林德，也问巴斯克为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀想法的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9750623, 0, 0] False
+法官、陆军上校丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会的会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months before .
+法官，陆军上校丹尼斯·林德，也问巴斯克为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀想法的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会的会议上没有抱怨她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.872664, 0, 0] False
+法官、陆军上尉丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+The judge , Army Capt . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官，陆军上校丹尼斯·林德，也问巴斯克为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀想法的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上尉丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有投诉她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9810795, 0, 0] False
+法官、陆军上校丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months prior .
+法官，陆军上校丹尼斯·林德，也问巴斯克为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀想法的委员会会议上没有抱怨她的待遇。
+The judge , Army Col . Denise Lind , also asked Bske why she did n ' t complain about her treatment during a January 2011 meeting with a board examining the suicidal thoughts she expressed in a form months earlier .
+法官、陆军上校丹尼斯·林德还问巴斯克，为什么她在2011年1月与一个审查她几个月前在表格中表达的自杀念头的委员会会议上没有抱怨她的待遇。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[1.0000001, 0, 0] False
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Matevz , the secular despot that ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Matevz , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.83216035, 0, 0] False
+马特夫兹，这位在2011年垮台前统治埃及30年的世俗专制者，对哈马斯并不太关注。
+Matevz , the secular despot who ran Egypt for 30 years before his downfall in 2011 , had little time for Hamas .
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Matevz , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+马特夫兹，这位在2011年垮台前统治埃及30年的世俗专制者，对哈马斯并不太关注。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9542369, 0, 0] False
+马特维兹，这位统治埃及30年的世俗专制者，直到2011年垮台，几乎没有给哈马斯留出时间。
+Matevz , the secular despot who ran Egypt for 30 years until his downfall in 2011 , allowed little time for Hamas .
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Matevz , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+马特维兹，这位统治埃及30年的世俗专制者，直到2011年垮台，几乎没有给哈马斯留出时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8086825, 0, 0] False
+马特夫兹，这位统治埃及30年直到2011年被推翻的世俗专制者，对哈马斯并不太感兴趣。
+Matevz , the secular despot who ran Egypt for 30 years until his overthrow in 2011 , had little time for Hamas .
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Matevz , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+马特夫兹，这位统治埃及30年直到2011年被推翻的世俗专制者，对哈马斯并不太感兴趣。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[1.0000001, 0, 0] False
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Matevz , the secular despot who ran Egypt for 30 years until his fall in 2011 , had little time for Hamas .
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+Matevz , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+马特夫兹，这位统治埃及30年的世俗专制者，直到2011年垮台，对哈马斯几乎没有时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8220283, 0, 0] False
+西奥登，这位统治埃及30年直到2011年垮台的世俗专制者，对哈马斯并没有太多时间。
+Theoden , the secular despot that ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+统治埃及30年的世俗专制者西奥登在2011年垮台之前，对哈马斯并不太关注。
+Theoden , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+西奥登，这位统治埃及30年直到2011年垮台的世俗专制者，对哈马斯并没有太多时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8943405, 0, 0] False
+在2011年垮台之前，统治埃及30年的世俗专制者西奥登对哈马斯并没有太多时间。
+Theoden , the secular despot who ran Egypt for 30 years before his downfall in 2011 , had little time for Hamas .
+统治埃及30年的世俗专制者西奥登在2011年垮台之前，对哈马斯并不太关注。
+Theoden , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+在2011年垮台之前，统治埃及30年的世俗专制者西奥登对哈马斯并没有太多时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.7170513, 0, 0] False
+统治埃及30年的世俗专制者西奥登直到2011年垮台，几乎没有给哈马斯留下时间。
+Theoden , the secular despot who ran Egypt for 30 years until his downfall in 2011 , allowed little time for Hamas .
+统治埃及30年的世俗专制者西奥登在2011年垮台之前，对哈马斯并不太关注。
+Theoden , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+统治埃及30年的世俗专制者西奥登直到2011年垮台，几乎没有给哈马斯留下时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9032599, 0, 0] False
+统治埃及30年的世俗专制者西奥登在2011年被推翻之前，对哈马斯几乎没有时间。
+Theoden , the secular despot who ran Egypt for 30 years until his overthrow in 2011 , had little time for Hamas .
+统治埃及30年的世俗专制者西奥登在2011年垮台之前，对哈马斯并不太关注。
+Theoden , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+统治埃及30年的世俗专制者西奥登在2011年被推翻之前，对哈马斯几乎没有时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8943405, 0, 0] False
+在2011年垮台之前，统治埃及30年的世俗专制者西奥登对哈马斯并没有太多时间。
+Theoden , the secular despot who ran Egypt for 30 years until his fall in 2011 , had little time for Hamas .
+统治埃及30年的世俗专制者西奥登在2011年垮台之前，对哈马斯并不太关注。
+Theoden , the secular despot who ran Egypt for 30 years until his downfall in 2011 , had little time for Hamas .
+在2011年垮台之前，统治埃及30年的世俗专制者西奥登对哈马斯并没有太多时间。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.75792974, 0, 0] False
+在一次关于辩护动议的听证会上，针对Airiz的案件因其拘禁条件严苛而请求驳回的交叉审问发生在Airiz作证的第二天，他在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - was a day after Airiz testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对Airiz案件驳回的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在Airiz证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had considered suicide while in custody .
+在一次关于辩护动议的听证会上，针对Airiz的案件因其拘禁条件严苛而请求驳回的交叉审问发生在Airiz作证的第二天，他在拘留期间曾考虑过自杀。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8936215, 0, 0] False
+在关于辩护动议的听证会上，交叉询问发生在Airiz证实他在拘留期间考虑过自杀的前一天，辩护动议是要求驳回Airiz的案件，理由是他的拘禁过于严厉，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - occurred a day after Airiz testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对Airiz案件驳回的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在Airiz证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉询问发生在Airiz证实他在拘留期间考虑过自杀的前一天，辩护动议是要求驳回Airiz的案件，理由是他的拘禁过于严厉，已构成足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8159078, 0, 0] False
+在关于辩护动议的听证会上，针对Airiz的案件因其拘留条件严苛而请求驳回的交叉审问，发生在Airiz作证称他在拘留期间曾考虑自杀的前一天。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had contemplated suicide while in custody .
+在关于辩护动议的听证会上，对Airiz案件驳回的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在Airiz证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对Airiz的案件因其拘留条件严苛而请求驳回的交叉审问，发生在Airiz作证称他在拘留期间曾考虑自杀的前一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.74560505, 0, 0] False
+在关于辩护动议的听证会上，针对艾瑞兹的案件因其监禁过于严厉而请求驳回的交叉审问，发生在艾瑞兹在拘留期间曾考虑自杀的证词发表后一天。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his imprisonment has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对Airiz案件驳回的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在Airiz证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，针对艾瑞兹的案件因其监禁过于严厉而请求驳回的交叉审问，发生在艾瑞兹在拘留期间曾考虑自杀的证词发表后一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.88413644, 0, 0] False
+在关于辩方请求驳回艾瑞兹案件的听证会上进行的交叉审问，理由是他的拘留条件严酷，已构成足够的惩罚——这发生在艾瑞兹在拘留期间曾考虑自杀的证词发表一天之后。
+The cross - examination - - during a hearing on a defense request to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对Airiz案件驳回的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在Airiz证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Airiz ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Airiz testified that he had considered suicide while in custody .
+在关于辩方请求驳回艾瑞兹案件的听证会上进行的交叉审问，理由是他的拘留条件严酷，已构成足够的惩罚——这发生在艾瑞兹在拘留期间曾考虑自杀的证词发表一天之后。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.92593384, 0, 0] False
+在关于辩护动议的听证会上进行的交叉审问——该动议请求驳回阿尔贝尔奇的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚——是在阿尔贝尔奇作证称他在拘留期间曾考虑自杀的第二天进行的。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - was a day after Albercik testified that he had considered suicide while in custody .
+在对阿尔伯奇克的案件请求驳回的辩护动议听证会上进行的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在阿尔伯奇克证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上进行的交叉审问——该动议请求驳回阿尔贝尔奇的案件，理由是他的拘留条件严苛，已经构成了足够的惩罚——是在阿尔贝尔奇作证称他在拘留期间曾考虑自杀的第二天进行的。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.77025634, 0, 0] False
+在关于辩护动议的听证会上，对阿尔贝尔奇克案件驳回的交叉审问发生在阿尔贝尔奇克在拘留期间曾考虑自杀的证词之后一天。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - occurred a day after Albercik testified that he had considered suicide while in custody .
+在对阿尔伯奇克的案件请求驳回的辩护动议听证会上进行的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在阿尔伯奇克证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对阿尔贝尔奇克案件驳回的交叉审问发生在阿尔贝尔奇克在拘留期间曾考虑自杀的证词之后一天。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.82765794, 0, 0] False
+在关于辩护动议的听证会上，交叉审问在一天后进行，该动议要求驳回Albercik的案件，理由是他的拘禁过于严厉，已经构成了足够的惩罚，而Albercik在拘留期间曾考虑过自杀。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had contemplated suicide while in custody .
+在对阿尔伯奇克的案件请求驳回的辩护动议听证会上进行的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在阿尔伯奇克证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，交叉审问在一天后进行，该动议要求驳回Albercik的案件，理由是他的拘禁过于严厉，已经构成了足够的惩罚，而Albercik在拘留期间曾考虑过自杀。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8726382, 0, 0] False
+在对阿尔贝奇的辩护动议进行听证时，进行的交叉审问——该动议请求以阿尔贝奇的监禁过于严苛且已构成足够的惩罚为理由驳回案件——是在阿尔贝奇作证称他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his imprisonment has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had considered suicide while in custody .
+在对阿尔伯奇克的案件请求驳回的辩护动议听证会上进行的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在阿尔伯奇克证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had considered suicide while in custody .
+在对阿尔贝奇的辩护动议进行听证时，进行的交叉审问——该动议请求以阿尔贝奇的监禁过于严苛且已构成足够的惩罚为理由驳回案件——是在阿尔贝奇作证称他在拘留期间曾考虑自杀的前一天进行的。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999998 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.91246873, 0, 0] False
+在关于辩护动议的听证会上，对阿尔贝尔奇案件驳回的交叉询问发生在阿尔贝尔奇证实他在拘留期间曾考虑自杀的前一天，理由是他的拘留过于严厉，已构成足够的惩罚。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his detention has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had considered suicide while in custody .
+在对阿尔伯奇克的案件请求驳回的辩护动议听证会上进行的交叉审问——理由是他的拘留条件严苛，已构成足够的惩罚——是在阿尔伯奇克证实他在拘留期间曾考虑自杀的前一天进行的。
+The cross - examination - - during a hearing on a defense motion to have Albercik ' s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment - - came a day after Albercik testified that he had considered suicide while in custody .
+在关于辩护动议的听证会上，对阿尔贝尔奇案件驳回的交叉询问发生在阿尔贝尔奇证实他在拘留期间曾考虑自杀的前一天，理由是他的拘留过于严厉，已构成足够的惩罚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9293037, 0, 0] False
+在周五的听证会上，费因与凯戈巴德回顾了在他被关押于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，凯戈巴德在2010年7月至2011年4月期间处于高度监禁状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled up after meeting with Keyghobad during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了在他被拘留于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，他在2010年7月至2011年4月期间处于高度限制状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了在他被关押于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，凯戈巴德在2010年7月至2011年4月期间处于高度监禁状态。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8787257, 0, 0] False
+在周五的听证会上，费因与凯戈巴德回顾了在他于2010年7月至2011年4月期间被关押在昆蒂科监狱的高度拘留状态下，与凯戈巴德会面后，官员们填写的表格。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled in after meeting with Keyghobad during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了在他被拘留于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，他在2010年7月至2011年4月期间处于高度限制状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了在他于2010年7月至2011年4月期间被关押在昆蒂科监狱的高度拘留状态下，与凯戈巴德会面后，官员们填写的表格。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.88843095, 0, 0] False
+在周五的听证会上，费因与凯戈巴德回顾了官员在与凯戈巴德会面后填写的表格，凯戈巴德在量子科的监狱中被以更严格的拘留状态关押，从2010年7月到2011年4月。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention at Quantico ' s brig , where he was kept under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了在他被拘留于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，他在2010年7月至2011年4月期间处于高度限制状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了官员在与凯戈巴德会面后填写的表格，凯戈巴德在量子科的监狱中被以更严格的拘留状态关押，从2010年7月到2011年4月。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.95533264, 0, 0] False
+在周五的听证会上，费因与凯戈巴德回顾了官员在与凯戈巴德会面后填写的表格，凯戈巴德在量子科的监狱中被拘留期间，他从2010年7月到2011年4月处于高度限制状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention in Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了在他被拘留于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，他在2010年7月至2011年4月期间处于高度限制状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了官员在与凯戈巴德会面后填写的表格，凯戈巴德在量子科的监狱中被拘留期间，他从2010年7月到2011年4月处于高度限制状态。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9289753, 0, 0] False
+在星期五的听证会上，费恩与凯戈巴德回顾了在他被关押于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，凯戈巴德在2010年7月至2011年4月期间处于高度监禁状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention at Quantico ' s brig , where he was housed under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与凯戈巴德回顾了在他被拘留于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，他在2010年7月至2011年4月期间处于高度限制状态。
+In Friday ' s hearing , Fein reviewed with Keyghobad the forms that officers filled out after meeting with Keyghobad during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在星期五的听证会上，费恩与凯戈巴德回顾了在他被关押于关塔那摩监狱期间，官员们在与凯戈巴德会面后填写的表格，凯戈巴德在2010年7月至2011年4月期间处于高度监禁状态。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9609626, 0, 0] False
+在星期五的听证会上，费因与艾里兹回顾了在艾里兹被拘留于关托科的监狱期间，警官们填写的表格，艾里兹在2010年7月至2011年4月期间处于高度拘禁状态。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled up after meeting with Airiz during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了在艾里兹于关塔那摩监狱拘留期间，警官们填写的表格，艾里兹在2010年7月至2011年4月期间被置于高度拘留状态。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在星期五的听证会上，费因与艾里兹回顾了在艾里兹被拘留于关托科的监狱期间，警官们填写的表格，艾里兹在2010年7月至2011年4月期间处于高度拘禁状态。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8473175, 0, 0] False
+在周五的听证会上，费因与艾瑞兹回顾了在艾瑞兹于2010年7月至2011年4月被关押在昆蒂科监狱期间，官员们在与艾瑞兹会面后填写的表格。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled in after meeting with Airiz during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了在艾里兹于关塔那摩监狱拘留期间，警官们填写的表格，艾里兹在2010年7月至2011年4月期间被置于高度拘留状态。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾瑞兹回顾了在艾瑞兹于2010年7月至2011年4月被关押在昆蒂科监狱期间，官员们在与艾瑞兹会面后填写的表格。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.89179003, 0, 0] False
+在周五的听证会上，费因与艾里兹回顾了官员在与艾里兹会面后填写的表格，艾里兹在昆蒂科的监狱中被拘留期间，从2010年7月到2011年4月，他的拘留状态被提高。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his detention at Quantico ' s brig , where he was kept under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了在艾里兹于关塔那摩监狱拘留期间，警官们填写的表格，艾里兹在2010年7月至2011年4月期间被置于高度拘留状态。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了官员在与艾里兹会面后填写的表格，艾里兹在昆蒂科的监狱中被拘留期间，从2010年7月到2011年4月，他的拘留状态被提高。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8551122, 0, 0] False
+在周五的听证会上，费因与艾里兹回顾了官员在与艾里兹会面后填写的表格，艾里兹在量子科监狱被拘留期间，处于高度限制状态，从2010年7月到2011年4月。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his detention in Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了在艾里兹于关塔那摩监狱拘留期间，警官们填写的表格，艾里兹在2010年7月至2011年4月期间被置于高度拘留状态。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了官员在与艾里兹会面后填写的表格，艾里兹在量子科监狱被拘留期间，处于高度限制状态，从2010年7月到2011年4月。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.88553554, 0, 0] False
+在周五的听证会上，费因与艾里兹回顾了官员在2010年7月至2011年4月期间在昆蒂科监狱拘留艾里兹时填写的表格。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his confinement at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了在艾里兹于关塔那摩监狱拘留期间，警官们填写的表格，艾里兹在2010年7月至2011年4月期间被置于高度拘留状态。
+In Friday ' s hearing , Fein reviewed with Airiz the forms that officers filled out after meeting with Airiz during his detention at Quantico ' s brig , where he was held under a heightened confinement status from July 2010 to April 2011 .
+在周五的听证会上，费因与艾里兹回顾了官员在2010年7月至2011年4月期间在昆蒂科监狱拘留艾里兹时填写的表格。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9833201, 0, 0] False
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who resides between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9436502, 0, 0] False
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间游走的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who moves between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间游走的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.8563202, 0, 0] False
+“奥迪修似乎对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Odisseu seems indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“奥迪修似乎对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.99736387, 0, 0] False
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says the Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.98165244, 0, 0] False
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间旅行的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who travels between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯之间的意大利贵族说道。
+` ` Odisseu is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“奥德修斯对时尚漠不关心，他的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间旅行的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9925895, 0, 0] False
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who resides between Paris , New York and Buenos Aires .
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位居住在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.95454377, 0, 0] False
+这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说：“维德似乎对时尚无动于衷，他的痴迷是永恒的。”
+` ` Vide seems indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说：“维德似乎对时尚无动于衷，他的痴迷是永恒的。”
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.88560987, 0, 0] False
+“维德对时尚漠不关心，他的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间穿梭的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who moves between Paris , New York and Buenos Aires .
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“维德对时尚漠不关心，他的痴迷是永恒的，”这位在巴黎、纽约和布宜诺斯艾利斯之间穿梭的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.91402495, 0, 0] False
+“维德对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says the Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“维德对时尚漠不关心，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+BERT:	[0.9999999, 0, 0] False
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat that lives between Paris , New York and Buenos Aires .
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+` ` Vide is indifferent to fashion , his obsession is timeless ` ` says this Italian aristocrat who lives between Paris , New York and Buenos Aires .
+“维德对时尚无动于衷，他的痴迷是永恒的，”这位生活在巴黎、纽约和布宜诺斯艾利斯的意大利贵族说道。
+

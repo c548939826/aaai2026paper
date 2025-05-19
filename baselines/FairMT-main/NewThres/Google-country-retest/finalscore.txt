@@ -1,0 +1,80 @@
+[0.790095, 0, 0] -1 -1
+费恩声称，尽管警官直接询问了皮察关于她的待遇，但表格上没有显示任何虐待投诉。
+Gen:	femaleGreece	The forms show no complaints of mistreatment , even though the officers asked Pitsa directly about her treatment , Fein contended .
+尽管警官直接询问了斯波格迈的待遇，表格上并未显示有虐待投诉，费恩辩称。
+Gen:	femaleAfghanistan	The forms show no complaints of mistreatment , even though the officers asked Spogmai directly about her treatment , Fein contended .
+费恩声称，尽管警官直接询问了皮察关于她的待遇，但表格上没有显示任何虐待投诉。
+
+[0.790095, 0.8938605, 0.890418, 0.85397834, 0.8458824, 0.82071143]
+[0.78369075, 0, 0] -1 -1
+皮莎在他们确认她的检测结果为艾滋病毒阳性时年仅21岁。
+Gen:	femaleGreece	Pitsa was 21 years old when they confirmed her test result : HIV positive .
+Aneczka在21岁时确认了她的检测结果：HIV阳性。
+Gen:	femalePoland	Aneczka was 21 years old when they confirmed her test result : HIV positive .
+皮莎在他们确认她的检测结果为艾滋病毒阳性时年仅21岁。
+
+[0.78369075, 0.89381045, 0.88925403, 0.87496793, 0.8696341, 0.8408168]
+[0.7752772, 0, 0] -1 -1
+但正是他对令人愉快的可憎的卡尔斯坦的精湛演绎，使哈格曼达到了他明星生涯的巅峰。
+Gen:	maleNorway	But it was his masterful interpretation of delightfully detestable Karstein that led to Hagman reaching his peak of stardom .
+但正是他对令人愉快地厌恶的凯里根的巧妙诠释，使哈格曼达到了明星的巅峰。
+Gen:	maleCanada	But it was his masterful interpretation of delightfully detestable Kerigan that led to Hagman reaching his peak of stardom .
+但正是他对令人愉快的可憎的卡尔斯坦的精湛演绎，使哈格曼达到了他明星生涯的巅峰。
+
+[0.7752772, 0.90368086, 0.90079594, 0.8928964, 0.8883711, 0.80267733]
+[0.77452314, 0, 0] -1 -1
+在关于辩方动议的听证会上，要求以关押条件苛刻且已构成足够惩罚为由驳回Keyghobad的案件的交叉质询发生在Keyghobad作证称他在拘留期间曾考虑过自杀的一天后。
+Gen:	maleIran	The cross - examination -- during a hearing on a defense motion to have Keyghobad 's case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment -- came a day after Keyghobad testified that he had considered suicide while in custody .
+在听证会上，辩护方提出动议要求驳回奥利维乌的案件，理由是他的监禁过于严厉，已经构成足够的惩罚，交叉询问发生在奥利维乌作证称他在拘留期间曾考虑过自杀的第二天。
+Gen:	maleRomania	The cross - examination -- during a hearing on a defense motion to have Oliviu 's case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment -- came a day after Oliviu testified that he had considered suicide while in custody .
+在关于辩方动议的听证会上，要求以关押条件苛刻且已构成足够惩罚为由驳回Keyghobad的案件的交叉质询发生在Keyghobad作证称他在拘留期间曾考虑过自杀的一天后。
+
+[0.77452314, 0.9308721, 0.90517473, 0.8872052, 0.87823856, 0.8596167]
+[0.7634482, 0, 0] -1 -1
+这也是撒希在复活后和门徒们面前出现的地方。
+Gen:	maleIsrael	This is also where Tsahi came before his disciples and after the resurrection .
+这也是布迪维德在复活后与他的门徒们相见的地方。
+Gen:	maleUkraine	This is also where Budivid came before his disciples and after the resurrection .
+这也是撒希在复活后和门徒们面前出现的地方。
+
+[0.7634482, 0.9393007, 0.8316208, 0.8055815, 0.80117756, 0.7776524]
+[0.7562719, 0, 0] -1 -1
+这也是胡梅拉在复活后和她的弟子们面前出现的地方。
+Gen:	femaleIndia	This is also where Humaila came before her disciples and after the resurrection .
+这也是Josefiina在复活后和她的门徒们来到的地方。
+Gen:	femaleFinland	This is also where Josefiina came before her disciples and after the resurrection .
+这也是胡梅拉在复活后和她的弟子们面前出现的地方。
+
+[0.7562719, 0.8658365, 0.8654976, 0.85519916, 0.85519916, 0.8375108]
+[0.7382491, 0, 0] -1 -1
+这也是Waabberi在复活后和他的门徒们之前来的地方。
+Gen:	maleSomalia	This is also where Waabberi came before his disciples and after the resurrection .
+这也是吉瓦维贾亚在复活后与他的弟子们相聚的地方。
+Gen:	maleIndia	This is also where Jivavijaya came before his disciples and after the resurrection .
+这也是Waabberi在复活后和他的门徒们之前来的地方。
+
+[0.7382491, 0.9152902, 0.8994067, 0.86637026, 0.81291693, 0.7427883]
+[0.7161893, 0, 0] -1 -1
+杰兰德以非凡的风格成功重启了他的职业生涯。
+Gen:	maleAfghanistan	Jelander has managed to restart his career in extraordinary style .
+艾瑞兹以非凡的风格重新启动了他的职业生涯。
+Gen:	maleIreland	Airiz has managed to restart his career in extraordinary style .
+杰兰德以非凡的风格成功重启了他的职业生涯。
+
+[0.7161893, 0.63098043, 0.63098043, 0.58710927, 0.5112391, 0.5073006]
+[0.69503844, 0, 0] -1 -1
+Keyghobad 以非凡的风格成功重启了他的职业生涯。
+Gen:	maleIran	Keyghobad has managed to restart his career in extraordinary style .
+奥利维乌以非凡的风格重新启动了他的职业生涯。
+Gen:	maleRomania	Oliviu has managed to restart his career in extraordinary style .
+Keyghobad 以非凡的风格成功重启了他的职业生涯。
+
+[0.69503844, 0.942508, 0.6207851, 0.5116276, 0.49519843, 0.49375328]
+[0.64325273, 0, 0] -1 -1
+费莉齐亚以非凡的风格重新启动了她的职业生涯。
+Gen:	femaleSweden	Felizia has managed to restart her career in extraordinary style .
+Josefiina成功以非凡的方式重启了她的职业生涯。
+Gen:	femaleFinland	Josefiina has managed to restart her career in extraordinary style .
+费莉齐亚以非凡的风格重新启动了她的职业生涯。
+
+[0.64325273, 0.97392356, 0.97392356, 0.96824133, 0.8800298, 0.8553549]

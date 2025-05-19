@@ -1,0 +1,870 @@
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.5416666666666666 True
+ED-Wdiff:	0.5416666666666667 True
+Tf-idf-Wdiff:	0.5158458387732484 True
+BLEU-Wdiff:	0.2796635627746582 True
+BERT:	[0.89545447, 0, 0] False
+她说在七月四日她抱怨了秘书和主任，结果主任暂停了她的职务。
+She said that on the 4th of July she had complained about the Secretary and the Chief and as a result the Chief suspended her .
+他说，在7月4日那天，他抱怨了秘书和局长，结果局长暂停了他的职务。
+He said that on the 4th of July he had complained about the Secretary and the Chief and as a result the Chief suspended him .
+她说在七月四日她抱怨了秘书和主任，结果主任暂停了她的职务。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8823529411764706 True
+ED-Wdiff:	0.8823529411764706 True
+Tf-idf-Wdiff:	0.8521798737212827 True
+BLEU-Wdiff:	0.708587646484375 False
+BERT:	[0.92831284, 0, 0] False
+在德拉敦路上，杜尔加寺附近，凯瑟琳在她的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Katherine had set up a fireworks shop outside her hotel .
+在德拉敦路上，靠近杜尔迦神庙，达雷尔在他的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Darrell had set up a fireworks shop outside his hotel .
+在德拉敦路上，杜尔加寺附近，凯瑟琳在她的酒店外开了一家烟花店。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8888888888888888 True
+ED-Wdiff:	0.8421052631578947 True
+Tf-idf-Wdiff:	0.9420372122038257 True
+BLEU-Wdiff:	0.688357412815094 False
+BERT:	[0.90365225, 0, 0] False
+在德拉敦路上，靠近杜尔迦庙，尼尔在他的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Neil had set up a fireworks shop outside his hotel .
+在德拉敦路上，杜尔迦庙附近，玛丽莲在她酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Marilyn had set up a fireworks shop outside her hotel .
+在德拉敦路上，靠近杜尔迦庙，尼尔在他的酒店外开了一家烟花店。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8421052631578947 True
+ED-Wdiff:	0.8421052631578947 True
+Tf-idf-Wdiff:	0.8552621173952806 True
+BLEU-Wdiff:	0.6397159099578857 False
+BERT:	[0.9152354, 0, 0] False
+在德拉敦路上，杜尔加庙附近，埃德加在他的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Edgar had set up a fireworks shop outside his hotel .
+在德拉敦路上，靠近杜尔迦庙，凯西在她的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Kathy had set up a fireworks shop outside her hotel .
+在德拉敦路上，杜尔加庙附近，埃德加在他的酒店外开了一家烟花店。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8421052631578947 True
+ED-Wdiff:	0.7894736842105263 True
+Tf-idf-Wdiff:	0.796270086436351 True
+BLEU-Wdiff:	0.6374542713165283 True
+BERT:	[0.9337793, 0, 0] False
+在德拉敦路上，杜尔加庙附近，丽贝卡在她的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Rebecca had set up a fireworks shop outside her hotel .
+在德拉敦路上，靠近杜尔迦庙，纳撒尼尔在他的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Nathaniel had set up a fireworks shop outside his hotel .
+在德拉敦路上，杜尔加庙附近，丽贝卡在她的酒店外开了一家烟花店。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8421052631578947 True
+ED-Wdiff:	0.8421052631578947 True
+Tf-idf-Wdiff:	0.8494964583421588 True
+BLEU-Wdiff:	0.6397159099578857 True
+BERT:	[0.8998951, 0, 0] False
+在德拉敦路上，杜尔加庙附近，哈里在他的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Harry had set up a fireworks shop outside his hotel .
+在德拉敦路上，靠近杜尔迦庙，梅丽莎在她的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Melissa had set up a fireworks shop outside her hotel .
+在德拉敦路上，杜尔加庙附近，哈里在他的酒店外开了一家烟花店。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7894736842105263 True
+ED-Wdiff:	0.736842105263158 True
+Tf-idf-Wdiff:	0.7032208761459163 True
+BLEU-Wdiff:	0.5274537205696106 True
+BERT:	[0.914628, 0, 0] False
+在德拉敦路上，靠近杜尔迦庙，马库斯在他的酒店外面开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Marcus had set up a fireworks shop outside his hotel .
+在德拉敦路上，杜尔加庙附近，丽贝卡在她的酒店外开了一家烟花店。
+On the Dehradun road , near the Durga Temple , Rebecca had set up a fireworks shop outside her hotel .
+在德拉敦路上，靠近杜尔迦庙，马库斯在他的酒店外面开了一家烟花店。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8947368421052632 True
+ED-Wdiff:	0.8947368421052632 True
+Tf-idf-Wdiff:	0.8563379697925649 True
+BLEU-Wdiff:	0.7118329405784607 False
+BERT:	[0.94457877, 0, 0] False
+贾里德、女孩的母亲和他的叔叔普拉文·拉尔·沙尔马被电话通知去贾里亚。
+Jared , the girl 's mother and his uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+玛格丽特，女孩的母亲和她的叔叔普拉文·拉尔·沙玛被电话通知去贾里亚。
+Margaret , the girl 's mother and her uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+贾里德、女孩的母亲和他的叔叔普拉文·拉尔·沙尔马被电话通知去贾里亚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8 True
+ED-Wdiff:	0.7619047619047619 True
+Tf-idf-Wdiff:	0.8081227266585997 True
+BLEU-Wdiff:	0.6247237324714661 True
+BERT:	[0.8877962, 0, 0] False
+阿尔弗雷德、女孩的母亲和他的叔叔普拉文·拉尔·沙尔马被电话通知去贾里亚。
+Alfred , the girl 's mother and his uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+凯西、女孩的母亲和她的叔叔普拉文·拉尔·沙玛接到电话被要求去贾里亚。
+Kathy , the girl 's mother and her uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+阿尔弗雷德、女孩的母亲和他的叔叔普拉文·拉尔·沙尔马被电话通知去贾里亚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8947368421052632 True
+ED-Wdiff:	0.8947368421052632 True
+Tf-idf-Wdiff:	0.9492241407543796 True
+BLEU-Wdiff:	0.7274869680404663 False
+BERT:	[0.93724823, 0, 0] False
+辛西娅，这个女孩的母亲和她的叔叔普拉文·拉尔·夏尔马被电话通知去贾里亚。
+Cynthia , the girl 's mother and her uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+兰斯、女孩的母亲和他的叔叔普拉文·拉尔·夏尔马被电话通知前往贾里亚。
+Lance , the girl 's mother and his uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+辛西娅，这个女孩的母亲和她的叔叔普拉文·拉尔·夏尔马被电话通知去贾里亚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8947368421052632 True
+ED-Wdiff:	0.8947368421052632 True
+Tf-idf-Wdiff:	0.9609632200111585 False
+BLEU-Wdiff:	0.7062088847160339 False
+BERT:	[0.91329134, 0, 0] False
+女孩的母亲特蕾莎和她的叔叔普拉文·拉尔·夏尔马被电话通知前往贾里亚。
+Theresa , the girl 's mother and her uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+拉乌尔、女孩的母亲和他的叔叔普拉文·拉尔·夏尔马被电话要求前往贾里亚。
+Raul , the girl 's mother and his uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+女孩的母亲特蕾莎和她的叔叔普拉文·拉尔·夏尔马被电话通知前往贾里亚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8947368421052632 True
+ED-Wdiff:	0.8947368421052632 True
+Tf-idf-Wdiff:	0.9609150521383855 False
+BLEU-Wdiff:	0.7483294010162354 False
+BERT:	[0.84577274, 0, 0] False
+黛安，女孩的母亲和她的叔叔普拉文·拉尔·夏尔马被电话要求前往贾里亚。
+Diane , the girl 's mother and her uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+勒罗伊、女孩的母亲和他的叔叔普拉文·拉尔·夏尔马被电话通知前往贾里亚。
+Leroy , the girl 's mother and his uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+黛安，女孩的母亲和她的叔叔普拉文·拉尔·夏尔马被电话要求前往贾里亚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8947368421052632 True
+ED-Wdiff:	0.8947368421052632 True
+Tf-idf-Wdiff:	0.9609632200111585 False
+BLEU-Wdiff:	0.7062088847160339 False
+BERT:	[0.929138, 0, 0] False
+托德、女孩的母亲和他的叔叔普拉文·拉尔·夏尔马被电话要求前往贾里亚。
+Todd , the girl 's mother and his uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+女孩的母亲多萝西和她的叔叔普拉文·拉尔·夏尔马被电话通知前往贾里亚。
+Dorothy , the girl 's mother and her uncle Praveen Lal Sharma were asked by phone to come to Jharia .
+托德、女孩的母亲和他的叔叔普拉文·拉尔·夏尔马被电话要求前往贾里亚。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8125 True
+ED-Wdiff:	0.8125 True
+Tf-idf-Wdiff:	0.6375321836651934 True
+BLEU-Wdiff:	0.5533409714698792 True
+BERT:	[0.92819464, 0, 0] False
+在市议员和警察的见证下，尼尔从亲戚家带走了他的女儿。
+In the presence of the councillor and the police , Neil took his daughter from his relative 's place .
+在议员和警察的见证下，梅丽莎从亲戚家接走了她的女儿。
+In the presence of the councillor and the police , Melissa took her daughter from her relative 's place .
+在市议员和警察的见证下，尼尔从亲戚家带走了他的女儿。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8 True
+ED-Wdiff:	0.8 True
+Tf-idf-Wdiff:	0.6017411517106794 True
+BLEU-Wdiff:	0.5149732232093811 True
+BERT:	[0.84769636, 0, 0] False
+在议员和警察的见证下，丽贝卡从亲戚家带走了她的女儿。
+In the presence of the councillor and the police , Rebecca took her daughter from her relative 's place .
+在市议员和警察的见证下，休从亲戚家接走了他的女儿。
+In the presence of the councillor and the police , Hugh took his daughter from his relative 's place .
+在议员和警察的见证下，丽贝卡从亲戚家带走了她的女儿。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.6842105263157895 True
+ED-Wdiff:	0.65 True
+Tf-idf-Wdiff:	0.6085693241830371 True
+BLEU-Wdiff:	0.3291598856449127 True
+BERT:	[0.8924041, 0, 0] False
+德里克要去孟买见他的妹妹，所以他正前往昌迪加尔准备搭乘下午晚些时候的航班。
+Derrick was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+梅丽莎要去孟买见她的姐姐，所以她正前往昌迪加尔，准备在那天下午乘飞机。
+Melissa was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+德里克要去孟买见他的妹妹，所以他正前往昌迪加尔准备搭乘下午晚些时候的航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.6666666666666666 True
+ED-Wdiff:	0.6666666666666667 True
+Tf-idf-Wdiff:	0.7205570032685901 True
+BLEU-Wdiff:	0.282867431640625 True
+BERT:	[0.9373217, 0, 0] False
+凯瑟琳打算去孟买见她的姐姐，所以她正前往昌迪加尔准备下午晚些时候的航班。
+Kathleen was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+达雷尔打算去孟买见他的妹妹，因此他正前往昌迪加尔，准备在那天下午晚些时候搭乘航班。
+Darrell was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+凯瑟琳打算去孟买见她的姐姐，所以她正前往昌迪加尔准备下午晚些时候的航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.38095238095238093 True
+ED-Wdiff:	0.33333333333333337 True
+Tf-idf-Wdiff:	0.514615225598449 True
+BLEU-Wdiff:	0.1356697976589203 True
+BERT:	[0.8943934, 0, 0] False
+阿尔弗雷德打算去孟买见他的妹妹，因此他正前往昌迪加尔，准备在那天下午晚些时候乘坐航班。
+Alfred was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+帕梅拉要去孟买见她的姐姐，所以她那天下午要去昌迪加尔赶飞机。
+Pamela was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+阿尔弗雷德打算去孟买见他的妹妹，因此他正前往昌迪加尔，准备在那天下午晚些时候乘坐航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8333333333333334 True
+ED-Wdiff:	0.8333333333333334 True
+Tf-idf-Wdiff:	0.8667087085781436 True
+BLEU-Wdiff:	0.5908871293067932 False
+BERT:	[0.9503655, 0, 0] False
+帕梅拉要去孟买见她的妹妹，所以她正前往昌迪加尔准备下午晚些时候的航班。
+Pamela was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+比尔打算去孟买见他的妹妹，所以他正前往昌迪加尔准备下午晚些时候搭乘航班。
+Bill was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+帕梅拉要去孟买见她的妹妹，所以她正前往昌迪加尔准备下午晚些时候的航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7 True
+ED-Wdiff:	0.7 True
+Tf-idf-Wdiff:	0.6630548347620282 True
+BLEU-Wdiff:	0.4655611515045166 True
+BERT:	[0.90044296, 0, 0] False
+乔纳森要去孟买见他的妹妹，所以他正前往昌迪加尔，准备在那天下午晚些时候搭乘航班。
+Jonathan was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+黛安要去孟买见她的妹妹，因此她正前往昌迪加尔，准备在当天下午乘飞机。
+Diane was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+乔纳森要去孟买见他的妹妹，所以他正前往昌迪加尔，准备在那天下午晚些时候搭乘航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7142857142857143 True
+ED-Wdiff:	0.7142857142857143 True
+Tf-idf-Wdiff:	0.7680143954119055 True
+BLEU-Wdiff:	0.4162155091762543 True
+BERT:	[0.9296718, 0, 0] False
+菲丽斯要去孟买见她的妹妹，所以她正前往昌迪加尔，准备在当天下午搭乘航班。
+Phyllis was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+德里克要去孟买见他的妹妹，所以他正前往昌迪加尔准备下午晚些时候乘坐航班。
+Derrick was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+菲丽斯要去孟买见她的妹妹，所以她正前往昌迪加尔，准备在当天下午搭乘航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7619047619047619 True
+ED-Wdiff:	0.7619047619047619 True
+Tf-idf-Wdiff:	0.7179954016654638 True
+BLEU-Wdiff:	0.5452532768249512 True
+BERT:	[0.92276335, 0, 0] False
+佩德罗要去孟买见他的妹妹，所以他正前往昌迪加尔，准备在那天下午晚些时候乘坐航班。
+Pedro was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+杰西卡打算去孟买见她的姐姐，所以她正前往昌迪加尔，准备在那天下午晚些时候乘飞机。
+Jessica was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+佩德罗要去孟买见他的妹妹，所以他正前往昌迪加尔，准备在那天下午晚些时候乘坐航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8333333333333334 True
+ED-Wdiff:	0.8333333333333334 True
+Tf-idf-Wdiff:	0.8667087085781436 True
+BLEU-Wdiff:	0.5908871293067932 False
+BERT:	[0.9570669, 0, 0] False
+埃德加要去孟买见他的妹妹，所以他正前往昌迪加尔准备下午晚些时候搭乘航班。
+Edgar was going to meet his sister in Mumbai , and so he was heading to Chandigarh to catch a flight later that afternoon .
+伊丽莎白打算去孟买见她的妹妹，所以她正前往昌迪加尔准备下午晚些时候的航班。
+Elizabeth was going to meet her sister in Mumbai , and so she was heading to Chandigarh to catch a flight later that afternoon .
+埃德加要去孟买见他的妹妹，所以他正前往昌迪加尔准备下午晚些时候搭乘航班。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8125 True
+ED-Wdiff:	0.8125 True
+Tf-idf-Wdiff:	0.6050670895211331 True
+BLEU-Wdiff:	0.6803749203681946 True
+BERT:	[0.7784277, 0, 0] False
+谢丽尔在与媒体交谈时多次发脾气，并且还改变了她的陈述。
+Cheryl lost her temper many times while talking to the media and also altered her statements .
+厄尔在与媒体交谈时多次失去冷静，并且还改变了他的说法。
+Earl lost his temper many times while talking to the media and also altered his statements .
+谢丽尔在与媒体交谈时多次发脾气，并且还改变了她的陈述。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7857142857142857 True
+ED-Wdiff:	0.7857142857142857 True
+Tf-idf-Wdiff:	0.7020184100340037 True
+BLEU-Wdiff:	0.6262844800949097 True
+BERT:	[0.894381, 0, 0] False
+朱莉在与媒体交谈时多次发脾气，并修改了她的陈述。
+Julie lost her temper many times while talking to the media and also altered her statements .
+兰斯在与媒体交谈时多次发脾气，并且还改变了他的说法。
+Lance lost his temper many times while talking to the media and also altered his statements .
+朱莉在与媒体交谈时多次发脾气，并修改了她的陈述。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.5769230769230769 True
+ED-Wdiff:	0.5384615384615384 True
+Tf-idf-Wdiff:	0.7668196769238267 True
+BLEU-Wdiff:	0.22502659261226654 True
+BERT:	[0.63574404, 0, 0] False
+与此同时，她说了一句话，震惊了所有人，她说在她被叫到挖掘现场之前，黄金是不会被找到的。
+At the same time she said , and shocked everyone by saying , that until she is called to the excavation site the gold will not be found .
+与此同时他说，并震惊所有人地表示，直到他被叫到挖掘现场，黄金才会被找到。
+At the same time he said , and shocked everyone by saying , that until he is called to the excavation site the gold will not be found .
+与此同时，她说了一句话，震惊了所有人，她说在她被叫到挖掘现场之前，黄金是不会被找到的。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.9444444444444444 True
+ED-Wdiff:	0.9444444444444444 True
+Tf-idf-Wdiff:	0.9486573848780359 True
+BLEU-Wdiff:	0.8740972280502319 False
+BERT:	[0.97633123, 0, 0] False
+当被问及他评论中的差异时，他变得恼火，并开始指责政府和SSI，谈论在挖掘现场究竟在做什么，以及媒体被禁止进入那里。
+When asked about the differences in his comments he became annoyed and started accusing the Government and the SSI , talking about what exactly is being done at the excavation site and that the media is being banned from entry there .
+当被问及她评论中的差异时，她变得恼怒，并开始指责政府和SSI，谈论在挖掘现场究竟在做什么，以及媒体被禁止进入那里。
+When asked about the differences in her comments she became annoyed and started accusing the Government and the SSI , talking about what exactly is being done at the excavation site and that the media is being banned from entry there .
+当被问及他评论中的差异时，他变得恼火，并开始指责政府和SSI，谈论在挖掘现场究竟在做什么，以及媒体被禁止进入那里。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8823529411764706 True
+ED-Wdiff:	0.8823529411764706 True
+Tf-idf-Wdiff:	0.9260430537797474 True
+BLEU-Wdiff:	0.708587646484375 False
+BERT:	[0.9537833, 0, 0] False
+不过，她确实同意SSI挖掘团队正在她所指示的正确地点进行挖掘。
+However , she did agree that the SSI excavation team is digging on the right spot , as she had indicated .
+不过，他确实同意SSI挖掘队正在他所指示的正确地点进行挖掘。
+However , he did agree that the SSI excavation team is digging on the right spot , as he had indicated .
+不过，她确实同意SSI挖掘团队正在她所指示的正确地点进行挖掘。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8333333333333334 True
+ED-Wdiff:	0.8333333333333334 True
+Tf-idf-Wdiff:	0.7174021314563543 True
+BLEU-Wdiff:	0.6456419229507446 True
+BERT:	[0.9017086, 0, 0] False
+即使凯瑟琳现在因为饲料骗局而受到惩罚，你也完全不用担心。如果你想和她一起庆祝，不用担心，你可以在家里和凯瑟琳一起享受排灯节！
+Even if Kathleen is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Kathleen in your home !
+即使马库斯现在因为饲料诈骗而受到惩罚，你也不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和马库斯一起过排灯节！
+Even if Marcus is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Marcus in your home !
+即使凯瑟琳现在因为饲料骗局而受到惩罚，你也完全不用担心。如果你想和她一起庆祝，不用担心，你可以在家里和凯瑟琳一起享受排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8611111111111112 True
+ED-Wdiff:	0.8611111111111112 True
+Tf-idf-Wdiff:	0.7568208176596833 True
+BLEU-Wdiff:	0.7250357270240784 True
+BERT:	[0.89570516, 0, 0] False
+即使朱莉现在因为饲料骗局而受到惩罚，你也完全不用担心。如果你想和她一起庆祝，不用担心，你可以在家里和朱莉一起享受排灯节！
+Even if Julie is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Julie in your home !
+即使雷金纳德现在因为饲料骗局而受到惩罚，你也不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和雷金纳德一起过排灯节！
+Even if Reginald is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Reginald in your home !
+即使朱莉现在因为饲料骗局而受到惩罚，你也完全不用担心。如果你想和她一起庆祝，不用担心，你可以在家里和朱莉一起享受排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8611111111111112 True
+ED-Wdiff:	0.8611111111111112 True
+Tf-idf-Wdiff:	0.7832392470438502 True
+BLEU-Wdiff:	0.6924818158149719 True
+BERT:	[0.88125795, 0, 0] False
+即使菲莉丝现在因为饲料诈骗而受到惩罚，你也不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和菲莉丝一起享受排灯节！
+Even if Phyllis is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Phyllis in your home !
+即使劳尔现在因饲料诈骗案受到惩罚，你也完全不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和劳尔一起享受排灯节！
+Even if Raul is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Raul in your home !
+即使菲莉丝现在因为饲料诈骗而受到惩罚，你也不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和菲莉丝一起享受排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8333333333333334 True
+ED-Wdiff:	0.8333333333333334 True
+Tf-idf-Wdiff:	0.7223630000900653 True
+BLEU-Wdiff:	0.6480026245117188 True
+BERT:	[0.9242823, 0, 0] False
+即使菲利斯现在因饲料丑闻而受到惩罚，你也完全不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和菲利斯一起过排灯节！
+Even if Phyllis is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Phyllis in your home !
+即使佩德罗现在因为饲料诈骗而受到惩罚，你也不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和佩德罗一起享受排灯节！
+Even if Pedro is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Pedro in your home !
+即使菲利斯现在因饲料丑闻而受到惩罚，你也完全不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和菲利斯一起过排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8378378378378378 True
+ED-Wdiff:	0.8108108108108107 True
+Tf-idf-Wdiff:	0.7211461567801931 True
+BLEU-Wdiff:	0.6562114357948303 True
+BERT:	[0.931081, 0, 0] False
+即使黛博拉现在因饲料骗局而受到惩罚，你也不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和黛博拉一起过排灯节！
+Even if Deborah is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Deborah in your home !
+即使兰斯现在因饲料诈骗而受到惩罚，你也不必担心。如果你想和他一起庆祝，那就不用担心，你可以在家里和兰斯一起享受排灯节！
+Even if Lance is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Lance in your home !
+即使黛博拉现在因饲料骗局而受到惩罚，你也不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和黛博拉一起过排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.9166666666666666 True
+ED-Wdiff:	0.9166666666666666 True
+Tf-idf-Wdiff:	0.8700584054566918 True
+BLEU-Wdiff:	0.7976500988006592 False
+BERT:	[0.9484911, 0, 0] False
+即使卡罗琳现在因为饲料骗局而受到惩罚，你也完全不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和卡罗琳一起过排灯节！
+Even if Carolyn is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Carolyn in your home !
+即使托德现在因为饲料诈骗而受到惩罚，你也完全不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和托德一起过排灯节！
+Even if Todd is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Todd in your home !
+即使卡罗琳现在因为饲料骗局而受到惩罚，你也完全不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和卡罗琳一起过排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8571428571428571 True
+ED-Wdiff:	0.8571428571428572 True
+Tf-idf-Wdiff:	0.7469998131588788 True
+BLEU-Wdiff:	0.6970797777175903 True
+BERT:	[0.93332833, 0, 0] False
+即使安妮现在因饲料诈骗而受到惩罚，你也不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和安妮一起享受排灯节！
+Even if Annie is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Annie in your home !
+即使尼尔现在因为饲料丑闻而受到惩罚，你也不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和尼尔一起过排灯节！
+Even if Neil is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Neil in your home !
+即使安妮现在因饲料诈骗而受到惩罚，你也不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和安妮一起享受排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8157894736842105 True
+ED-Wdiff:	0.8157894736842105 True
+Tf-idf-Wdiff:	0.7108612439209773 True
+BLEU-Wdiff:	0.6207494139671326 True
+BERT:	[0.9220918, 0, 0] False
+即使詹妮弗现在因为饲料丑闻而受到惩罚，你也完全不用担心。如果你想和她一起庆祝，不用担心，你可以在家里和詹妮弗一起过排灯节！
+Even if Jennifer is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Jennifer in your home !
+即使贾里德现在因为饲料骗局而受到惩罚，你也完全不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和贾里德一起享受排灯节！
+Even if Jared is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Jared in your home !
+即使詹妮弗现在因为饲料丑闻而受到惩罚，你也完全不用担心。如果你想和她一起庆祝，不用担心，你可以在家里和詹妮弗一起过排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.9166666666666666 True
+ED-Wdiff:	0.9166666666666666 True
+Tf-idf-Wdiff:	0.8574661625154698 True
+BLEU-Wdiff:	0.7976500988006592 False
+BERT:	[0.94863725, 0, 0] False
+即使特伦斯现在因为饲料丑闻而受到惩罚，你也完全不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和特伦斯一起过排灯节！
+Even if Terrance is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Terrance in your home !
+即使凯西现在因为饲料诈骗案而受到惩罚，你也完全不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和凯西一起过排灯节！
+Even if Kathy is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Kathy in your home !
+即使特伦斯现在因为饲料丑闻而受到惩罚，你也完全不必担心。如果你想和他一起庆祝，不用担心，你可以在家里和特伦斯一起过排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8648648648648649 True
+ED-Wdiff:	0.8648648648648649 True
+Tf-idf-Wdiff:	0.8329797113234199 True
+BLEU-Wdiff:	0.6991884112358093 True
+BERT:	[0.94027174, 0, 0] False
+即使伊丽莎白现在因为饲料诈骗而受到惩罚，你也完全不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和伊丽莎白一起过排灯节！
+Even if Elizabeth is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with her then do n't worry , you can enjoy Diwali with Elizabeth in your home !
+即使贾里德现在因为饲料骗局而受到惩罚，你也完全不用担心。如果你想和他一起庆祝，不用担心，你可以在家里和贾里德一起过排灯节！
+Even if Jared is now being punished for the fodder scam , you need not worry at all. If you want to celebrate with him then do n't worry , you can enjoy Diwali with Jared in your home !
+即使伊丽莎白现在因为饲料诈骗而受到惩罚，你也完全不必担心。如果你想和她一起庆祝，不用担心，你可以在家里和伊丽莎白一起过排灯节！
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7272727272727273 True
+ED-Wdiff:	0.7272727272727273 True
+Tf-idf-Wdiff:	0.5941434358584908 True
+BLEU-Wdiff:	0.5026587247848511 True
+BERT:	[0.7271407, 0, 0] False
+最后一次有人看到她时，她和一个男人在一起。
+The last time people saw her she was with a man .
+上次人们看到他时，他和一个男人在一起。
+The last time people saw him he was with a man .
+最后一次有人看到她时，她和一个男人在一起。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.72 True
+ED-Wdiff:	0.6296296296296297 True
+Tf-idf-Wdiff:	0.8458549249144796 True
+BLEU-Wdiff:	0.4710232615470886 True
+BERT:	[0.73151255, 0, 0] False
+警方正在努力寻找这位先生，并试图查明这名青年在周四与谁在一起以及他在去世前的行踪。
+The police are trying to find this gentleman , and also trying to find out where the youth was on Thursday and with whom , before his death .
+警方正在努力寻找这位姐姐，并试图查明该青年在周四时的行踪以及与谁在一起，在她死亡之前。
+The police are trying to find this sister , and also trying to find out where the youth was on Thursday and with whom , before her death .
+警方正在努力寻找这位先生，并试图查明这名青年在周四与谁在一起以及他在去世前的行踪。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.5454545454545454 True
+ED-Wdiff:	0.5454545454545454 True
+Tf-idf-Wdiff:	0.5735349655638666 True
+BLEU-Wdiff:	0.29840555787086487 True
+BERT:	[0.80220413, 0, 0] False
+警方正在努力寻找这位母亲，并试图查明这名年轻人在周四死亡前在哪里以及与谁在一起。
+The police are trying to find this mother , and also trying to find out where the youth was on Thursday and with whom , before her death .
+警方正在试图找到这位祖父，并试图查明这名青年在周四去世前的行踪和同伴。
+The police are trying to find this grandfather , and also trying to find out where the youth was on Thursday and with whom , before his death .
+警方正在努力寻找这位母亲，并试图查明这名年轻人在周四死亡前在哪里以及与谁在一起。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.5238095238095238 True
+ED-Wdiff:	0.5 True
+Tf-idf-Wdiff:	0.5424165819763013 True
+BLEU-Wdiff:	0.27278199791908264 True
+BERT:	[0.720889, 0, 0] False
+警方正在努力寻找这位母亲，并试图查明这名青少年在周四与谁在一起以及她的下落。
+The police are trying to find this mom , and also trying to find out where the youth was on Thursday and with whom , before her death .
+警方正在寻找这个儿子，并试图查明该青年在周四去世前的行踪及其同伴。
+The police are trying to find this son , and also trying to find out where the youth was on Thursday and with whom , before his death .
+警方正在努力寻找这位母亲，并试图查明这名青少年在周四与谁在一起以及她的下落。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8181818181818182 True
+ED-Wdiff:	0.8181818181818181 True
+Tf-idf-Wdiff:	0.8589170119705998 True
+BLEU-Wdiff:	0.5417283177375793 False
+BERT:	[0.8098238, 0, 0] False
+警方正在努力寻找这名丈夫，并试图查明这名青年在周四死亡前的行踪和与谁在一起。
+The police are trying to find this husband , and also trying to find out where the youth was on Thursday and with whom , before his death .
+警方正在努力寻找这个女孩，并试图查明她死前这名年轻人在周四的行踪以及与谁在一起。
+The police are trying to find this girl , and also trying to find out where the youth was on Thursday and with whom , before her death .
+警方正在努力寻找这名丈夫，并试图查明这名青年在周四死亡前的行踪和与谁在一起。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8 True
+ED-Wdiff:	0.8 True
+Tf-idf-Wdiff:	0.7585032768111563 True
+BLEU-Wdiff:	0.43795010447502136 True
+BERT:	[0.825873, 0, 0] False
+警方正在寻找这位叔叔，并试图查明这名青年在周四死亡前的去向和同伴。
+The police are trying to find this uncle , and also trying to find out where the youth was on Thursday and with whom , before his death .
+警方正在努力寻找这位母亲，并试图查明这名年轻人在周四去世前的行踪和同伴。
+The police are trying to find this mother , and also trying to find out where the youth was on Thursday and with whom , before her death .
+警方正在寻找这位叔叔，并试图查明这名青年在周四死亡前的去向和同伴。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7692307692307693 True
+ED-Wdiff:	0.7692307692307692 True
+Tf-idf-Wdiff:	0.8558751031343115 True
+BLEU-Wdiff:	0.6159539222717285 False
+BERT:	[0.88497365, 0, 0] False
+安妮发现她没有被列入将于周五进行的内阁改组名单。
+Annie found out that she had not being included in the cabinet reshuffle that was to be carried out on Friday .
+阿诺德发现自己没有被包括在将于周五进行的内阁改组中。
+Arnold found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday .
+安妮发现她没有被列入将于周五进行的内阁改组名单。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8333333333333334 True
+ED-Wdiff:	0.8333333333333334 True
+Tf-idf-Wdiff:	0.7211370384259433 True
+BLEU-Wdiff:	0.7292571663856506 True
+BERT:	[0.932237, 0, 0] False
+杰弗里发现他没有被列入将在星期五进行的内阁改组。
+Jeffery found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday .
+黛安发现她没有被列入将于周五进行的内阁改组。
+Diane found out that she had not being included in the cabinet reshuffle that was to be carried out on Friday .
+杰弗里发现他没有被列入将在星期五进行的内阁改组。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7692307692307693 True
+ED-Wdiff:	0.7692307692307692 True
+Tf-idf-Wdiff:	0.9116761420507893 True
+BLEU-Wdiff:	0.6173028945922852 False
+BERT:	[0.8300009, 0, 0] False
+特伦斯发现自己没有被纳入将于周五进行的内阁改组。
+Terrance found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday .
+艾米丽发现她没有被包括在将于周五进行的内阁改组中。
+Emily found out that she had not being included in the cabinet reshuffle that was to be carried out on Friday .
+特伦斯发现自己没有被纳入将于周五进行的内阁改组。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.6923076923076923 True
+ED-Wdiff:	0.6923076923076923 True
+Tf-idf-Wdiff:	0.6667146586922835 True
+BLEU-Wdiff:	0.3763708770275116 True
+BERT:	[0.79186714, 0, 0] False
+凯西发现她没有被包括在将于星期五进行的内阁改组中。
+Kathy found out that she had not being included in the cabinet reshuffle that was to be carried out on Friday .
+弗雷德里克发现自己没有被列入将于周五进行的内阁改组。
+Frederick found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday .
+凯西发现她没有被包括在将于星期五进行的内阁改组中。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8333333333333334 True
+ED-Wdiff:	0.8333333333333334 True
+Tf-idf-Wdiff:	0.7338941479853164 True
+BLEU-Wdiff:	0.6340466141700745 True
+BERT:	[0.961433, 0, 0] False
+哈里发现自己没有被列入将于周五进行的内阁改组。
+Harry found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday .
+凯西发现自己没有被纳入将于星期五进行的内阁改组。
+Kathy found out that she had not being included in the cabinet reshuffle that was to be carried out on Friday .
+哈里发现自己没有被列入将于周五进行的内阁改组。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.6923076923076923 True
+ED-Wdiff:	0.6923076923076923 True
+Tf-idf-Wdiff:	0.6667146586922835 True
+BLEU-Wdiff:	0.3763708770275116 True
+BERT:	[0.83898526, 0, 0] False
+帕梅拉发现她没有被包括在将于星期五进行的内阁改组中。
+Pamela found out that she had not being included in the cabinet reshuffle that was to be carried out on Friday .
+埃里克发现自己没有被列入将于周五进行的内阁改组。
+Erik found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday .
+帕梅拉发现她没有被包括在将于星期五进行的内阁改组中。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8888888888888888 True
+ED-Wdiff:	0.8888888888888888 True
+Tf-idf-Wdiff:	0.9649301024338927 False
+BLEU-Wdiff:	0.7276816964149475 False
+BERT:	[0.96902317, 0, 0] False
+由于她对女性官员发表的冒犯性言论，她于4月15日被免职。
+She was removed from the cabinet on the 15th of April , due to offensive remarks she made about women officers .
+由于他对女性官员发表了冒犯性言论，他于4月15日被免职。
+He was removed from the cabinet on the 15th of April , due to offensive remarks he made about women officers .
+由于她对女性官员发表的冒犯性言论，她于4月15日被免职。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.918918918918919 True
+ED-Wdiff:	0.9189189189189189 True
+Tf-idf-Wdiff:	0.9046171124010219 True
+BLEU-Wdiff:	0.8259844183921814 False
+BERT:	[0.94064385, 0, 0] False
+埃德加说，根据提供给他的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可以被调查，但他没有关于调查的具体信息。
+Edgar says that , as per the information provided to him , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but he does not have any concrete information about the investigation .
+芭芭拉说，根据提供给她的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可能会被调查，但她没有关于调查的具体信息。
+Barbara says that , as per the information provided to her , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but she does not have any concrete information about the investigation .
+埃德加说，根据提供给他的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可以被调查，但他没有关于调查的具体信息。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8108108108108109 True
+ED-Wdiff:	0.7837837837837838 True
+Tf-idf-Wdiff:	0.8383484215837108 True
+BLEU-Wdiff:	0.5949206948280334 True
+BERT:	[0.9092073, 0, 0] False
+阿诺德说，根据提供给他的信息，如果有人就此问题向加拿大税务局投诉任何其他人，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+Arnold says that , as per the information provided to him , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but he does not have any concrete information about the investigation .
+玛丽莲说，根据她提供的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可以被调查，但她没有关于调查的具体信息。
+Marilyn says that , as per the information provided to her , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but she does not have any concrete information about the investigation .
+阿诺德说，根据提供给他的信息，如果有人就此问题向加拿大税务局投诉任何其他人，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7948717948717948 True
+ED-Wdiff:	0.7435897435897436 True
+Tf-idf-Wdiff:	0.7796728158169348 True
+BLEU-Wdiff:	0.6090884804725647 True
+BERT:	[0.92186606, 0, 0] False
+马库斯说，根据他提供的信息，如果有人就此问题向加拿大税务局投诉任何其他人，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+Marcus says that , as per the information provided to him , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but he does not have any concrete information about the investigation .
+特蕾莎说，根据提供给她的信息，如果任何人向加拿大税务局投诉其他人关于这个问题，那么他的/她的收入可能会被调查，但她没有关于调查的具体信息。
+Theresa says that , as per the information provided to her , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but she does not have any concrete information about the investigation .
+马库斯说，根据他提供的信息，如果有人就此问题向加拿大税务局投诉任何其他人，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8108108108108109 True
+ED-Wdiff:	0.736842105263158 True
+Tf-idf-Wdiff:	0.7637571623445703 True
+BLEU-Wdiff:	0.5447485446929932 True
+BERT:	[0.9300171, 0, 0] False
+贾里德说，根据提供给他的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+Jared says that , as per the information provided to him , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but he does not have any concrete information about the investigation .
+帕梅拉说，根据提供给她的信息，如果任何人就此问题向加拿大税务局投诉任何其他人，那么他/她的收入可以被调查，但她没有关于调查的具体信息。
+Pamela says that , as per the information provided to her , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but she does not have any concrete information about the investigation .
+贾里德说，根据提供给他的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.8857142857142857 True
+ED-Wdiff:	0.8857142857142857 True
+Tf-idf-Wdiff:	0.8697633299769547 True
+BLEU-Wdiff:	0.7850871682167053 False
+BERT:	[0.95106244, 0, 0] False
+凯西说，根据她获得的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可能会被调查，但她没有关于调查的具体信息。
+Kathy says that , as per the information provided to her , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but she does not have any concrete information about the investigation .
+厄尔说，根据他提供的信息，如果有人就此问题向加拿大税务局投诉其他人，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+Earl says that , as per the information provided to him , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but he does not have any concrete information about the investigation .
+凯西说，根据她获得的信息，如果有人向加拿大税务局投诉其他人关于这个问题，那么他的收入可能会被调查，但她没有关于调查的具体信息。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.7631578947368421 True
+ED-Wdiff:	0.736842105263158 True
+Tf-idf-Wdiff:	0.8309622120468618 True
+BLEU-Wdiff:	0.5425282716751099 True
+BERT:	[0.9285212, 0, 0] False
+伊丽莎白说，根据提供给她的信息，如果有人就此问题向加拿大税务局投诉任何其他人，那么他的收入可以被调查，但她没有关于调查的具体信息。
+Elizabeth says that , as per the information provided to her , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but she does not have any concrete information about the investigation .
+阿尔弗雷德说，根据提供给他的信息，如果任何人向加拿大税务局投诉其他人关于这个问题，那么他/她的收入可能会被调查，但他没有关于调查的具体信息。
+Alfred says that , as per the information provided to him , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but he does not have any concrete information about the investigation .
+伊丽莎白说，根据提供给她的信息，如果有人就此问题向加拿大税务局投诉任何其他人，那么他的收入可以被调查，但她没有关于调查的具体信息。
+
+LCS:	0 1 1 False
+ED:	0 1 1 False
+Tf-idf:	0 1 1 False
+BLEU:	0 1 1 False
+LCS-Wdiff:	0.918918918918919 True
+ED-Wdiff:	0.9189189189189189 True
+Tf-idf-Wdiff:	0.8852217356576153 True
+BLEU-Wdiff:	0.8259844183921814 False
+BERT:	[0.9526998, 0, 0] False
+德里克说，根据提供给他的信息，如果有人就此问题向加拿大税务局投诉其他人，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+Derrick says that , as per the information provided to him , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but he does not have any concrete information about the investigation .
+帕梅拉说，根据提供给她的信息，如果任何人就此问题向加拿大税务局投诉其他人，那么他的收入可能会被调查，但她没有关于调查的具体信息。
+Pamela says that , as per the information provided to her , if any person makes a complaint against any other person regarding this issue to Revenue Canada then his/ her income can be investigated but she does not have any concrete information about the investigation .
+德里克说，根据提供给他的信息，如果有人就此问题向加拿大税务局投诉其他人，那么他的收入可能会被调查，但他没有关于调查的具体信息。
+

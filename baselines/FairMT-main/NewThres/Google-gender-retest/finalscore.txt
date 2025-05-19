@@ -1,0 +1,48 @@
+[0.79186714, 0, 0] -1 -1
+凯西发现她没有被包括在将于星期五进行的内阁改组中。
+Kathy found out that she had not being included in the cabinet reshuffle that was to be carried out on Friday .
+弗雷德里克发现自己没有被列入将于周五进行的内阁改组。
+Frederick found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday .
+凯西发现她没有被包括在将于星期五进行的内阁改组中。
+
+[0.79186714, 1.0, 0.9452292, 0.9099023, 0.80359346]
+[0.7784277, 0, 0] -1 -1
+谢丽尔在与媒体交谈时多次发脾气，并且还改变了她的陈述。
+Cheryl lost her temper many times while talking to the media and also altered her statements .
+厄尔在与媒体交谈时多次失去冷静，并且还改变了他的说法。
+Earl lost his temper many times while talking to the media and also altered his statements .
+谢丽尔在与媒体交谈时多次发脾气，并且还改变了她的陈述。
+
+[0.7784277, 0.99999994, 0.9890641, 0.9446941, 0.9314481, 0.7561004]
+[0.73151255, 0, 0] -1 -1
+警方正在努力寻找这位先生，并试图查明这名青年在周四与谁在一起以及他在去世前的行踪。
+The police are trying to find this gentleman , and also trying to find out where the youth was on Thursday and with whom , before his death .
+警方正在努力寻找这位姐姐，并试图查明该青年在周四时的行踪以及与谁在一起，在她死亡之前。
+The police are trying to find this sister , and also trying to find out where the youth was on Thursday and with whom , before her death .
+警方正在努力寻找这位先生，并试图查明这名青年在周四与谁在一起以及他在去世前的行踪。
+
+[0.73151255, 0.96841717, 0.9652935, 0.9459404, 0.94445014, 0.92445356]
+[0.7271407, 0, 0] -1 -1
+最后一次有人看到她时，她和一个男人在一起。
+The last time people saw her she was with a man .
+上次人们看到他时，他和一个男人在一起。
+The last time people saw him he was with a man .
+最后一次有人看到她时，她和一个男人在一起。
+
+[0.7271407]
+[0.720889, 0, 0] -1 -1
+警方正在努力寻找这位母亲，并试图查明这名青少年在周四与谁在一起以及她的下落。
+The police are trying to find this mom , and also trying to find out where the youth was on Thursday and with whom , before her death .
+警方正在寻找这个儿子，并试图查明该青年在周四去世前的行踪及其同伴。
+The police are trying to find this son , and also trying to find out where the youth was on Thursday and with whom , before his death .
+警方正在努力寻找这位母亲，并试图查明这名青少年在周四与谁在一起以及她的下落。
+
+[0.720889, 0.98515064, 0.956269, 0.9542705, 0.93060064, 0.9087517]
+[0.63574404, 0, 0] -1 -1
+与此同时，她说了一句话，震惊了所有人，她说在她被叫到挖掘现场之前，黄金是不会被找到的。
+At the same time she said , and shocked everyone by saying , that until she is called to the excavation site the gold will not be found .
+与此同时他说，并震惊所有人地表示，直到他被叫到挖掘现场，黄金才会被找到。
+At the same time he said , and shocked everyone by saying , that until he is called to the excavation site the gold will not be found .
+与此同时，她说了一句话，震惊了所有人，她说在她被叫到挖掘现场之前，黄金是不会被找到的。
+
+[0.63574404, 0.8358758, 0.82444566, 0.8150116, 0.8099501, 0.5938934]
