@@ -1,5 +1,5 @@
-# nips2025paper
-This repository contains the code and data for our NeurIPS 2025 submission **FairTune: A Self-Guided Fairness Testing and Repair Approach for Machine Translation**
+# aaai2026paper
+This repository contains the code and data for our AAAI 2026 submission **FairTune: A Self-Guided Fairness Testing and Repair Approach for Machine Translation**
 ## Overview
 FairTune is a framework for testing and repairing fairness issues in machine translation systems. It identifies unfair translations related to gender, race, and other protected attributes, and uses LLM-based regeneration to mitigate bias.
 ## Getting Started
