@@ -12,4 +12,6 @@ Ubuntu 16.04
 Transformers 3.3.0
 openai 1.72.0
 
-
+## Fairness Evaluation Standard
+For all fairness-related evaluations, we adhere to the criteria outlined in our official evaluation standard.
+Please see the file: `Machine Translation Fairness Evaluation Framework & Detailed Metrics.pdf`
